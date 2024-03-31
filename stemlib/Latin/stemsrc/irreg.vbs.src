@@ -214,7 +214,6 @@ auferr@emsub	irreg_pp1 imperf subj
 :vs:aufe^r conj3 part
 :vb:auferre irreg_pp1 pres inf act
 :vb:auferri_ irreg_pp1 pres inf pass
-:vs:
 :vs:abs-tul	perfstem
 :vs:ab-la_t	pp4
 
@@ -256,7 +255,6 @@ efferr@emsub	irreg_pp1 imperf subj
 :vs:effe^r conj3 part
 :vb:efferre irreg_pp1 pres inf act
 :vb:efferri_ irreg_pp1 pres inf pass
-:vs:
 :vs:ex-tul	perfstem
 :vs:e_-la_t	pp4
 
