@@ -878,7 +878,7 @@ tr@decl3_i	numeral masc fem neut abl pl
 
 :le:alteruter
 alter-uter 	irreg_adj2 masc nom/voc sg
-alter-utra 	irreg_adj2 gen nom/voc sg
+alter-utra 	irreg_adj2 fem nom/voc sg
 alter-utrum 	irreg_adj2 neut nom/voc sg
 alter-utr@ille	irreg_adj2
 
@@ -888,7 +888,7 @@ alter-utr@ille	irreg_adj2
 
 :le:uter#3
 uter 	irreg_adj2 masc nom/voc sg
-utra 	irreg_adj2 gen nom/voc sg
+utra 	irreg_adj2 fem nom/voc sg
 utrum 	irreg_adj2 neut nom/voc sg
 utr@ille	irreg_adj2
 
