@@ -532,7 +532,6 @@
 :vs:aufe^r conj3 part
 :vb:auferre irreg_pp1 pres inf act
 :vb:auferri_ irreg_pp1 pres inf pass
-:vs:
 :vs:abs-tul	perfstem
 :vs:ab-la_t	pp4
 :vb:auferrem   irreg_pp1 imperf subj act 1st sg
@@ -580,7 +579,6 @@
 :vs:effe^r conj3 part
 :vb:efferre irreg_pp1 pres inf act
 :vb:efferri_ irreg_pp1 pres inf pass
-:vs:
 :vs:ex-tul	perfstem
 :vs:e_-la_t	pp4
 :vb:efferrem   irreg_pp1 imperf subj act 1st sg
@@ -697,7 +695,7 @@
 :vb:re_fe^runt	irreg_pp1 3rd pl pres ind act
 :vb:re_fe^ret	irreg_pp1 3rd sg fut ind act
 :vb:re_fe^rat	irreg_pp1 3rd sg pres subj act
-:vb:re_fe^re_bat	irreg_pp1 3rd sg imperf act act
+:vb:re_fe^re_bat	irreg_pp1 3rd sg imperf act
 :vb:re_fe^rret	irreg_pp1 3rd sg imperf subj act
 :vb:re_ferre irreg_pp1 pres inf act
 :vs:re_tul	perfstem
@@ -850,13 +848,6 @@
 :vb:pro_desse_mus   irreg_pp1 imperf subj act 1st pl
 :vb:pro_desse_tis   irreg_pp1 imperf subj act 2nd pl
 :vb:pro_dessent   irreg_pp1 imperf subj act 3rd pl
-:vb:pro_desser   irreg_pp1 imperf subj pass 1st sg
-:vb:pro_desse_ris   irreg_pp1 imperf subj pass 2nd sg
-:vb:pro_desse_re   irreg_pp1 imperf subj pass 2nd sg
-:vb:pro_desse_tur   irreg_pp1 imperf subj pass 3rd sg
-:vb:pro_desse_mur   irreg_pp1 imperf subj pass 1st pl
-:vb:pro_desse_mini_   irreg_pp1 imperf subj pass 2nd pl
-:vb:pro_dessentur   irreg_pp1 imperf subj pass 3rd pl
 
 :le:supersum#1
 :vb:supersum		irreg_pp1 1st sg pres ind act

@@ -124,14 +124,14 @@
 
 :le:clades
 :no:cla_d	es_is fem
-:wd:cla_dium	es_is fem gen pl
+:wd:cla_dium	fem gen pl
 
 :le:suus
 :aj:su^	us_a_um
-:wd:su^o_met us_a_um dat abl masc neut sg
-:wd:su^a_met us_a_um dat abl fem sg
-:wd:su^o_pte us_a_um dat abl masc neut sg
-:wd:su^a_pte us_a_um dat abl fem sg
+:wd:su^o_met dat abl masc neut sg
+:wd:su^a_met dat abl fem sg
+:wd:su^o_pte dat abl masc neut sg
+:wd:su^a_pte dat abl fem sg
 
 :le:proconsul
 :no:pro_consul 0_is masc
@@ -260,7 +260,7 @@
 
 :le:Agamemnon
 :no:A^ga^memn	oLn_onis masc
-:wd:A^ga^memno	oLn_onis masc voc sg
+:wd:A^ga^memno	masc voc sg
 
 :le:agedum
 :wd:agedum 	adverb
@@ -408,7 +408,7 @@
 
 :le:celer
 :aj:cel	er_era_erum superl
-@	comp
+:aj:cel	er_era_erum comp
 :aj:celer		0_adj3 
 
 :le:celeriter
@@ -500,7 +500,7 @@
 :no:Cre_	s_tis masc fem
 
 :le:Crus
-:no:Cru	s_ris masc pers_name
+:no:Cr	uLs_uLris masc pers_name
 
 :le:Culleo
 :no:Culle	o_oLnis masc
@@ -519,7 +519,7 @@
 
 :le:daps
 :no:dap 	is_is fem
-:wd:daps	s_is fem nom sg
+:wd:daps	fem nom sg
 
 :le:decem
 :wd:de^cem	numeral
@@ -682,7 +682,7 @@
 
 :le:febris
 :no:febr      is_is fem
-:wd:febrim	is_is fem acc sg
+:wd:febrim	fem acc sg
 
 :le:fessus
 :aj:fess	us_a_um
@@ -789,8 +789,8 @@
 
 :le:imber
 :no:imb	er_ris masc
-:wd:imbri er_ris masc abl sg
-:wd:imbrium er_ris masc gen pl
+:wd:imbri masc abl sg
+:wd:imbrium masc gen pl
 
 :le:imperator
 :no:impe^ra_t	or_oLris masc
@@ -889,7 +889,7 @@
 
 :le:Libya
 :no:Liby	a_ae fem
-:no:Liby	a_es fem
+:no:Liby	e_es fem
 
 :le:Lupus
 :no:Lup us_i masc
@@ -1030,7 +1030,7 @@
 
 :le:nostras
 :aj:nostra_t	is_e
-:aj:nostra_s	irreg_adj3 nom masc fem sg
+:wd:nostra_s	irreg_adj3 nom masc fem neut sg
 
 :le:novem
 :wd:novem	numeral
@@ -1044,7 +1044,7 @@
 
 :le:nox
 :no:no x_ctis fem
-:wd:noctu_	x_ctis abl fem sg
+:wd:noctu_	abl fem sg
 
 :le:numquam
 :wd:numquam	adverb
@@ -1055,7 +1055,6 @@
 
 :le:Nympho
 :no:Nymph	o_oLnis masc
-:no:Nymph	o_ontis masc
 
 :le:o
 :wd:o_	exclam
@@ -1076,7 +1075,7 @@
 :le:optimas
 :aj:optima_ s_tis_adj
 :aj:optuma_ s_tis_adj
-:wd:optima_tum s_tis_adj gen pl masc fem neut
+:wd:optima_tum gen pl masc fem neut
 
 :le:Orgia
 :no:org	ius_i neut pl
@@ -1370,7 +1369,7 @@
 
 :le:senatus
 :no:se^na_t	us_us masc
-:wd:se^na_ti	us_i masc gen sg
+:wd:se^na_ti	masc gen sg
 
 :le:septem
 :wd:septem	numeral
@@ -1595,5 +1594,5 @@
 :le:vox
 :no:vo_	x_cis fem
 
-:le:nudius
-:wd:nud	ius_i masc
+#:le:nudius
+#:wd:nud	ius_i masc

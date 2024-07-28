@@ -2394,15 +2394,15 @@
 :vs:co-gno_sc	conj3
 :vs:co-gno_v perfstem
 :vs:co-gni^t pp4
-:vb:cogno_sti_	perfstem 2nd sg perf ind act contr	
-:vb:cogno_stis	perfstem 2nd pl perf ind act contr
-:vb:cogno_runt	perfstem 3rd pl perf ind act contr
-:vb:cogno_rim	perfstem 1st sg perf subj act contr
-:vb:cogno_rit	perfstem 3rd sg perf subj act contr
-:vb:cogno_ris	perfstem 2nd sg futperf ind act contr
-:vb:cogno_ras	perfstem 2nd sg plup ind act contr
-:vb:cogno_runt	perfstem 3rd pl futperf ind act contr
-:vb:cogno_sse	perfstem perf inf act contr
+:vb:cogno_sti_	2nd sg perf ind act contr	
+:vb:cogno_stis	2nd pl perf ind act contr
+:vb:cogno_runt	3rd pl perf ind act contr
+:vb:cogno_rim	1st sg perf subj act contr
+:vb:cogno_rit	3rd sg perf subj act contr
+:vb:cogno_ris	2nd sg futperf ind act contr
+:vb:cogno_ras	2nd sg plup ind act contr
+:vb:cogno_runt	3rd pl futperf ind act contr
+:vb:cogno_sse	perf inf act contr
 :le:cogo
 :vs:co_g	conj3
 :vs:co^e_g perfstem
@@ -3500,7 +3500,7 @@
 :le:consuesco
 :vs:consue_sc	conj3
 :vs:consue_v perfstem
-:vb:consue_sse perfstem perf inf act syncope
+:vb:consue_sse perf inf act syncope
 :vs:consue_t pp4
 :le:consulo
 :vs:consu^l	conj3
@@ -4963,8 +4963,8 @@
 :vs:di_c	conj3
 :vs:di_x perfstem
 :vs:dict pp4
-:vb:di_xti_	perfstem 2nd sg perf ind act contr
-:vb:di_xtis	perfstem 2nd pl perf ind act contr
+:vb:di_xti_	2nd sg perf ind act contr
+:vb:di_xtis	2nd pl perf ind act contr
 :le:dictito
 :de:dicti^t	are_vb
 :le:dicto
@@ -9756,8 +9756,8 @@
 :vs:ma^le^di_c	conj3
 :vs:ma^le^di_x perfstem
 :vs:ma^le^dict pp4
-:vb:ma^le^di_xti_	perfstem 2nd sg perf ind act contr
-:vb:ma^le^di_xtis	perfstem 2nd pl perf ind act contr
+:vb:ma^le^di_xti_	2nd sg perf ind act contr
+:vb:ma^le^di_xtis	2nd pl perf ind act contr
 :le:maledictito
 :de:ma^le^dicti^t	are_vb
 :le:malefacio
@@ -12324,10 +12324,10 @@
 :le:potior
 :vs:po^t	conj4
 :vs:po^ti_t pp4
-:vb:po^titur	perfstem 3rd sg pres indic pass early
-:vb:po^tere_tur	perfstem 3rd sg imperf subj pass early
-:vb:po^tere_mur	perfstem 1st pl imperf subj pass early
-:vb:po^terentur	perfstem 3rd pl imperf subj pass early
+:vb:po^titur	3rd sg pres indic pass early
+:vb:po^tere_tur	3rd sg imperf subj pass early
+:vb:po^tere_mur	1st pl imperf subj pass early
+:vb:po^terentur	3rd pl imperf subj pass early
 :le:potito
 :de:po_ti^t	are_vb
 :le:praeaccipio
@@ -13210,9 +13210,9 @@
 :vs:pro^-hi^b	conj2
 :vs:pro^-hi^bu^ perfstem
 :vs:pro^-hi^bi^t pp4
-:vb:prohibessis	perfstem 2nd sg perf subj act early
-:vb:prohibessit	perfstem 3rd sg perf subj act early
-:vb:prohibessint	perfstem 3rd pl perf subj act early
+:vb:prohibessis	2nd sg perf subj act early
+:vb:prohibessit	3rd sg perf subj act early
+:vb:prohibessint	3rd pl perf subj act early
 :le:proicio
 :vs:pro_-i^c	conj3_io
 :vs:pro_-ji^c	conj3_io

@@ -1587,8 +1587,8 @@
 :wd:tribus   numeral masc/fem/neut abl pl
 
 :le:alteruter
-:wd:alterutra   irreg_adj1 sg
 :wd:alteruter   irreg_adj1 masc nom/voc sg
+:wd:alterutra   irreg_adj1 fem nom/voc sg
 :wd:alterutra   irreg_adj1 fem nom sg
 :wd:alterutrum   irreg_adj1 neut nom/voc sg
 :wd:alterutri_us   irreg_adj1 masc/fem/neut gen sg
@@ -1613,8 +1613,8 @@
 :wd:alterutri_s   irreg_adj1 fem abl pl
 
 :le:uter#3
-:wd:utra   irreg_adj1 sg
 :wd:uter   irreg_adj1 masc nom/voc sg
+:wd:utra   irreg_adj1 fem nom/voc sg
 :wd:utra   irreg_adj1 fem nom sg
 :wd:utrum   irreg_adj1 neut nom/voc sg
 :wd:utri_us   irreg_adj1 masc/fem/neut gen sg

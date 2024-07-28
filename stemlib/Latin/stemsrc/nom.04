@@ -159,9 +159,9 @@
 :le:Gad
 :wd:Gad	irreg_nom3 indecl masc geog_name
 
-:le:Jeremiah
-:no:Hieremi as_a masc pers_name
-:no:Hieremi a_ae masc pers_name
+#:le:Jeremiah
+#:no:Hieremi as_a masc pers_name
+#:no:Hieremi a_ae masc pers_name
 
 :le:Bethel
 :wd:Bethel	irreg_nom3 indecl masc geog_name
@@ -215,9 +215,9 @@
 :le:Baal
 :wd:Baal	irreg_nom3 indecl masc pers_name
 
-:le:Ezechias
-:no:Ezechi as_a masc pers_name
-:no:Ezechi a_ae masc pers_name
+#:le:Ezechias
+#:no:Ezechi as_a masc pers_name
+#:no:Ezechi a_ae masc pers_name
 
 :le:Helias
 :no:Heli as_ae masc pers_name
@@ -236,7 +236,7 @@
 :no:Spi_rit us_us masc pers_name
 
 :le:Moses
-:no:Mos 	es_eIi masc pers_name
+:no:Mos 	es_eLi masc pers_name
 :no:Mos 	us_i masc gen pers_name
 
 :le:Joseph

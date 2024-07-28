@@ -296,10 +296,10 @@
 
 :le:dico#2
 :vs:di_c	conj3
-:vb:di_c		conj3 2nd sg pres imperat act
+:vb:di_c		2nd sg pres imperat act
 :vs:di_x		perfstem
 :vs:dict	pp4
-:vb:di_xe	perfstem perf inf act
+:vb:di_xe	perf inf act
 
 :le:dissero#2
 :vs:disse^r	conj3
@@ -320,7 +320,7 @@
 
 :le:duco
 :vs:du_c	conj3
-:vb:du_c		conj3 2nd sg pres imperat act
+:vb:du_c		2nd sg pres imperat act
 :vs:du_x perfstem
 :vs:duct pp4
 
@@ -378,8 +378,8 @@
 :vs:ex-tinx	perfstem
 :vs:ex-stinct	perfstem
 :vs:ex-tinct	perfstem
-:vb:extinxem	perfstem 1st sg plup subj act contr
-:vb:exstinxti_	perfstem 2nd sg perf ind act contr
+:vb:extinxem	1st sg plup subj act contr
+:vb:exstinxti_	2nd sg perf ind act contr
 
 :le:implico
 :de:implic	are_vb
@@ -391,20 +391,20 @@
 
 :le:explico
 :de:explic	are_vb
-:de:explicu	perfstem
+:vs:explicu	perfstem
 
 :le:facio
 :vs:fac		conj3_io no_comp
 :vs:fic		conj3_io comp_only
-:vb:fac		conj3	2nd sg pres imperat act
+:vb:fac		2nd sg pres imperat act
 :vs:fe_c	perfstem
 :vs:fact	pp4 no_comp
 :vs:fect	pp4 comp_only
-:vb:faxim	perfstem 1st sg perf subj act
-:vb:faxis	perfstem 2nd sg perf subj act
-:vb:faxit	perfstem 3rd sg perf subj act
-:vb:faxint	perfstem 3rd pl perf subj act
-:vb:faxo_	perfstem 1st sg fut perf indic act
+:vb:faxim	1st sg perf subj act
+:vb:faxis	2nd sg perf subj act
+:vb:faxit	3rd sg perf subj act
+:vb:faxint	3rd pl perf subj act
+:vb:faxo_	1st sg futperf indic act
 
 
 :le:fateor
@@ -503,7 +503,7 @@
 :vb:inquimus	irreg_pp1	1st pl pres ind act 
 :vb:inquitis	irreg_pp1	2nd pl pres ind act  late
 :vb:inquiunt	irreg_pp1	3rd pl pres ind act 
-:vb:inquie_bat	irreg_pp1	3rd sg imper ind act
+:vb:inquie_bat	irreg_pp1	3rd sg imperf ind act
 
 :vb:inquie_s	irreg_pp1	2nd sg fut ind act 
 :vb:inquiet	irreg_pp1	3rd sg fut ind act 
@@ -517,10 +517,9 @@
 :le:irrito#1
 :de:ir-ri_t	are_vb
 :de:inri_t	are_vb 
-:vb:irri_ta_ssis	perfstem 2nd sg perf subj act
-:vb:irri_ta_ssit	perfstem 3rd sg perf subj act
-:vb:inri_ta_ssis	perfstem 2nd sg perf subj act
-:vb:inri_ta_ssit	perfstem 3rd sg perf subj act
+:vb:irri_ta_ssit	3rd sg perf subj act
+:vb:inri_ta_ssis	2nd sg perf subj act
+:vb:inri_ta_ssit	3rd sg perf subj act
 
 :le:intellego
 :vs:intelle^g	conj3
@@ -573,7 +572,8 @@
 
 :le:loquor
 :vs:lo^qu conj3 dep
-:vs:lo^c conj3 dep #locuntur in Sen. Ep. 22.10
+#locuntur in Sen. Ep. 22.10
+:vs:lo^c conj3 dep
 :vs:lo^cu_t pp4
 :vs:lo^quu_t pp4 old
 
@@ -612,7 +612,7 @@
 :vs:mo^v conj2
 :vs:mo_v perfstem
 :vs:mo_t pp4
-:vb:mo_runt perfstem 3rd pl perf ind act contr
+:vb:mo_runt 3rd pl perf ind act contr
 
 :le:mitto
 :vs:mitt conj3
@@ -638,7 +638,7 @@
 :vs:nec	 	conj1
 :vs:necu	perfstem
 :vs:neca_v	perfstem no_comp
-:vs:neca_t	ppf4 no_comp
+:vs:neca_t	pp4 no_comp
 :vs:nect	pp4	comp_only
 
 :le:necto
@@ -662,19 +662,19 @@
 :le:nosco
 :vs:no_sc	conj3
 :vs:no_v	perfstem
-:vb:no_sti_	perfstem 2nd sg perf ind act contr	
-:vb:no_stis	perfstem 2nd pl perf ind act contr
-:vb:no_runt	perfstem 3rd pl perf ind act contr
-:vb:no_rim	perfstem 1st sg perf subj act contr
-:vb:no_rit	perfstem 3rd sg perf subj act contr
+:vb:no_sti_	2nd sg perf ind act contr	
+:vb:no_stis	2nd pl perf ind act contr
+:vb:no_runt	3rd pl perf ind act contr
+:vb:no_rim	1st sg perf subj act contr
+:vb:no_rit	3rd sg perf subj act contr
 :vs:no_t	pp4
-:vb:no_ris	perfstem 2nd sg futperf ind act contr
-:vb:no_ram	perfstem 1st sg plup ind act contr
-:vb:no_ra_s	perfstem 2nd sg plup ind act contr
-:vb:no_rat	perfstem 3rd sg plup ind act contr
-:vb:no_rant	perfstem 3rd pl plup ind act contr
-:vb:no_runt	perfstem 3rd pl futperf ind act contr
-:vb:no_sse	perfstem perf inf act contr
+:vb:no_ris	2nd sg futperf ind act contr
+:vb:no_ram	1st sg plup ind act contr
+:vb:no_ra_s	2nd sg plup ind act contr
+:vb:no_rat	3rd sg plup ind act contr
+:vb:no_rant	3rd pl plup ind act contr
+:vb:no_runt	3rd pl futperf ind act contr
+:vb:no_sse	perf inf act contr
 :vs:gno_sc	conj3 orth
 :vs:gno_v	perfstem orth
 :vs:gno_t	pp4 orth
@@ -691,8 +691,8 @@
 :le:occipio
 :vs:occipi	conj3
 :vs:occe_p	perfstem
-:vb:occepso	perfstem 1st sg futperf ind act early
-:vb:occepsit	perfstem 3rd sg futperf ind act early
+:vb:occepso	1st sg futperf ind act early
+:vb:occepsit	3rd sg futperf ind act early
 :vs:occept	pp4
 
 :le:odi
@@ -892,7 +892,7 @@
 :le:saevio
 :vs:saev	conj4
 :vs:saevi perfstem
-:vb:saevisse perfstem inf act per syncope
+:vb:saevisse inf act perf syncope
 :vs:saevi_t pp4
 
 :le:salio#1
@@ -1007,7 +1007,7 @@
 :vs:surripu	perfstem
 :vs:subripu	perfstem orth
 :vs:surrept	pp4
-:vs:subrept	ppf orth
+:vs:subrept	pp4 orth
 :vs:surrupu	perfstem orth early
 :vs:subrupu	perfstem orth early
 :vs:surpu	perfstem orth early

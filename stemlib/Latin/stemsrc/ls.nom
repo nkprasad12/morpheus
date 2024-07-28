@@ -6676,7 +6676,7 @@ albi^ce_ra_tus
 albi^cantius	
 albi^co^lor		
 :le:albicolor
-:aj:albi^co^lor	0_e
+:aj:albi^co^l or_oLris_adj
 
 
 albi^co^mus		
@@ -10570,7 +10570,8 @@ Andro^ge^o_ne_us
 
 Andro^ge^o_s		<itype>o_</itype>
 :le:Androgeos
-:no:Andro^ge^	os_o masc
+:wd:Andro^ge^o_s	masc nom sg
+:wd:Andro^ge^o_	masc gen sg
 :no:Andro^ge^	us_i masc orth
 
 andro^gy^ne_		
@@ -11005,7 +11006,7 @@ a^ni_li^tas
 a^ni^ma		
 :le:anima
 :no:a^ni^m	a_ae fem
-:wd:a^ni^ma_bus	a_ae fem dat abl pl
+:wd:a^ni^ma_bus	fem dat abl pl
 
 
 a^ni^ma_bi^lis		
@@ -18993,7 +18994,7 @@ atrica^pillus
 
 a_tri^-co^lor		
 :le:atricolor
-:aj:a_tri^-co^lor	0_e
+:aj:a_tri^-co^l or_oLris_adj
 
 
 a_tri^ensis		
@@ -19963,7 +19964,7 @@ auri^coctor
 
 auri^-co^lor		
 :le:auricolor
-:aj:auri^-co^lor	0_e
+:aj:auri^-co^l or_oLris_adj
 
 
 auri^-co^mans		<itype>antis</itype>	<pos>adj.</pos>
@@ -27651,9 +27652,9 @@ caela_tu_ra
 :no:caela_tu_r	a_ae fem
 
 
-caelebs		<orth>coelebs</orth>	<itype>li^bis</itype>	<pos>adj.</pos>
-:le:caelebs
-:aj:caeleb	s_e
+#caelebs		<orth>coelebs</orth>	<itype>li^bis</itype>	<pos>adj.</pos>
+#:le:caelebs
+#:aj:caeleb	s_e
 
 caele^s		<orth type=alt>coel-</orth>	<itype>i^tis</itype>	<pos>adj.</pos>
 :le:caeles
@@ -29787,7 +29788,7 @@ camptaules
 
 campter		
 :le:campter
-:no:campt	eLr_eLis masc
+:no:campt	eLr_eLris masc
 
 
 campus#1		
@@ -33269,7 +33270,7 @@ ca^the_^dra_ri^us
 
 ca^the^ter		
 :le:catheter
-:no:ca^the^t	eLr_eLis masc
+:no:ca^the^t	eLr_eLris masc
 
 
 ca^the^te_rismus		
@@ -33835,7 +33836,7 @@ caute_la
 
 caute_r		
 :le:cauter
-:no:caut	eLr_eLis masc
+:no:caut	eLr_eLris masc
 
 
 caute_ri^um		
@@ -36310,7 +36311,7 @@ cha^ra^ci_tes
 
 cha^racter		
 :le:character
-:no:cha^ract	eLr_eLis masc
+:no:cha^ract	eLr_eLris masc
 
 
 cha^racte_rismo^s		<orth type=alt>-mus</orth>	
@@ -39870,7 +39871,7 @@ cli_ma^cis
 
 cli_macter		
 :le:climacter
-:no:cli_mact	eLr_eLis masc
+:no:cli_mact	eLr_eLris masc
 
 
 cli_macte_ri^cus		
@@ -40102,7 +40103,7 @@ clo_stellum
 
 Clo_ste_r		
 :le:Closter
-:no:Clo_st	eLr_eLis masc
+:no:Clo_st	eLr_eLris masc
 
 
 Clo_tho_	
@@ -50294,7 +50295,7 @@ cra_te_ra		<orth>cre_-terra</orth>
 
 cra_te_r		
 :le:crater
-:no:cra_t	eLr_eLis masc
+:no:cra_t	eLr_eLris masc
 
 
 cra^te^ri_tes		
@@ -53127,7 +53128,7 @@ cycla^da_tus
 cycla^mi_no^s		
 :le:cyclaminos
 :no:cycla^mi_n	os_i fem
-:no:cycla^mi_n	on_i neut
+:no:cycla^mi_n	os_i neut
 
 
 cy_clas		
@@ -54763,7 +54764,7 @@ dautia
 Da_vi_d		<gen>m.</gen>
 Da_vi_d	<itype>indecl.</itype>
 :le:David
-:no:Da_vi_d	0_us masc pers_name
+:no:Da_vi_d	0_is masc pers_name
 :wd:Da_vi_d	irreg_nom3 indecl pers_name
 
 Da_vi_di^cus		
@@ -54785,7 +54786,7 @@ de_#2		<pos>prep.</pos>
 de^a		
 :le:dea
 :no:de^	a_ae fem
-:wd:de^a_bus	a_ae fem dat/abl pl
+:wd:de^a_bus	fem dat/abl pl
 
 de^-a^ci^na_tus		
 :le:deacinatus
@@ -61725,8 +61726,8 @@ di_versi_^cli_ni^a
 
 di_versi^-co^lor		<orth type=alt>di_vors-</orth>	
 :le:diversicolor
-:aj:di_versi^-co^lor	0_e
-:aj:di_vorsi^-co^lor	0_e orth
+:aj:di_versi^-co^l or_oLris_adj
+:aj:di_vorsi^-co^l or_oLris_adj orth
 
 
 
@@ -62272,7 +62273,7 @@ Do^lo^pes
 :le:Dolopes
 :no:Do^lo^p	0_is masc pl
 :no:Do^lo^p	s_is masc pl
-:wd:Do^lo^pas	s_is acc masc pl
+:wd:Do^lo^pas	acc masc pl
 
 
 Do^lo^pe_i^us		
@@ -74327,7 +74328,7 @@ Fa_tu^-ellus		<orth>Fa_tu^a</orth>	<orth>Fa_tu^ella</orth>
 fauces		
 :le:fauces
 :no:fau	x_cis fem
-:wd:faucium   x_cis fem gen pl
+:wd:faucium   fem gen pl
 
 Fauci^us		
 :le:Faucius
@@ -74625,9 +74626,9 @@ fe_-li_ne^us
 fe_lix#1		
 :le:felix#1
 :aj:fe_l	ix_adj
-:wd:fe_li_ci_	ix_adj abl sg masc fem neut
-:wd:fe_li_cia	ix_adj neut nom voc acc pl
-:wd:fe_li_cium	ix_adj gen pl
+:wd:fe_li_ci_	abl sg masc fem neut
+:wd:fe_li_cia	neut nom voc acc pl
+:wd:fe_li_cium	gen pl
 
 
 Felix		<orth>fe_li_ci^ter</orth>
@@ -75831,7 +75832,7 @@ fi_la_tim
 fi_li^a		
 :le:filia
 :no:fi_li^	a_ae fem
-:wd:fi_li^a_bus	a_ae fem dat abl pl
+:wd:fi_li^a_bus	fem dat abl pl
 
 fi_li^a_lis		
 :le:filialis
@@ -76858,7 +76859,7 @@ floscu^-la
 flucti^co^la		<itype>ae</itype>	<pos>adj.</pos>
 flucti^-co^lor		
 :le:flucticolor
-:aj:flu_cti^-co^lor	0_e
+:aj:flu_cti^-co^l or_oLris_adj
 
 
 flucti^cu^lus		
@@ -84904,7 +84905,7 @@ haesi^ta_tor
 
 ha_ge_te_r		
 :le:hageter
-:no:ha_ge_t	eLr_eLis masc
+:no:ha_ge_t	eLr_eLris masc
 
 
 Ha^gi^o^gra^pha		
@@ -85073,7 +85074,7 @@ ha^lo_sis
 
 halter		
 :le:halter
-:no:halt	eLr_eLis masc
+:no:halt	eLr_eLris masc
 
 
 ha_lu_ci^na_tio		<orth type=alt>ha_lu_ci^nor</orth>
@@ -91130,7 +91131,7 @@ Idmo^ni^us
 
 i_do_le_um		<orth>-i_um</orth>	
 :le:idoleum
-:no:	ius_i neut
+:no:i_do_l	ius_i neut
 
 
 i_do_li^cus		
@@ -98959,9 +98960,9 @@ in-fe_li_ci^tas
 in-fe_lix		
 :le:infelix
 :aj:in-fe_l	ix_adj
-:wd:in-fe_li_ci_	ix_adj abl sg masc fem neut
-:wd:in-fe_li_cia	ix_adj neut nom voc acc pl
-:wd:in-fe_li_cium	ix_adj gen pl
+:wd:in-fe_li_ci_	abl sg masc fem neut
+:wd:in-fe_li_cia	neut nom voc acc pl
+:wd:in-fe_li_cium	gen pl
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 infe_li_ci^ter	
@@ -100658,7 +100659,7 @@ i^n-opportu_nus		<orth>i^nopportu_ne_</orth>
 
 i^nops		
 :le:inops
-:aj:i^nop	s_e
+:aj:i^no	ps_pis_adj
 
 
 i^no^pes		<itype>um</itype>
@@ -104829,7 +104830,7 @@ Iri^a_tes
 
 i_ri^co^lor		
 :le:iricolor
-:aj:i_ri^co^lor	0_e
+:aj:i_ri^co^l or_oLris_adj
 
 
 Iri^ne_		
@@ -105514,14 +105515,13 @@ I_rus
 :no:I_r	us_i masc
 
 
-is		<itype>e^a, id</itype>	<gen>m.</gen>	<gen>n.</gen>	
-:le:is
-:no:	is_is fem
-
-	
-:le:is
-:no:	is_is fem
-
+# is		<itype>e^a, id</itype>	<gen>m.</gen>	<gen>n.</gen>	
+# :le:is
+# :no:	is_is fem
+# 
+# 	
+# :le:is
+# :no:	is_is fem
 
 is	<itype>Id</itype>	<gen>n.</gen>
 e^a_		<orth>e^o_</orth>
@@ -106643,9 +106643,9 @@ jo^cundus
 jo^cus		<itype>i</itype>	<itype>joca, jocorum</itype>	<gen>n.</gen>	
 :le:jocus
 :no:jo^c	us_i masc
-:wd:jo^ca	us_i neut nom acc voc pl
-:wd:jo^co_rum	us_i neut gen pl
-:wd:jo^ci_s	us_i neut dat abl pl
+:wd:jo^ca	neut nom acc voc pl
+:wd:jo^co_rum	neut gen pl
+:wd:jo^ci_s	neut dat abl pl
 
 jo^cuscu^lum	
 Joppe_		<orth>Jo^pe_</orth>	
@@ -108250,7 +108250,7 @@ lacti^ci_ni^um
 lacti^ci_ni^a		<orth type=alt>o_rum</orth>
 lacti^co^lor		
 :le:lacticolor
-:aj:lacti^co^lor	0_e
+:aj:lacti^co^l or_oLris_adj
 
 
 lacti^cula_ri^us		<orth>lacti^culo_sus</orth>
@@ -110869,7 +110869,7 @@ Le^aena#2
 
 Le_ander		<orth>Le_andrus</orth>	
 :le:Leander
-:no:Le_and	er_i masc
+:no:Le_and	er_ri masc
 
 
 Le_andri^cus		
@@ -116558,7 +116558,7 @@ lu_te^o^lus
 
 lu_te_r		
 :le:luter
-:no:lu_t	eLr_eLis masc
+:no:lu_t	eLr_eLris masc
 
 
 Luteti^a		
@@ -123381,7 +123381,7 @@ Me^na^lippus		<orth>Me^la^nip-pus</orth>
 
 Me^nander		<orth>Me^nandros</orth>	<orth>-us</orth>	
 :le:Menander
-:no:Me^nand	er_i masc
+:no:Me^nand	er_ri masc
 
 
 Me^nandre_us		
@@ -126686,12 +126686,12 @@ Mne_sarchus
 
 mne_ster#1		
 :le:mnester#1
-:no:mne_st	eLr_eLis masc
+:no:mne_st	eLr_eLris masc
 
 
 Mne_ster#2		
 :le:Mnester
-:no:Mne_st	eLr_eLis masc
+:no:Mne_st	eLr_eLris masc
 
 
 Mnestheus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^o_s</itype>	<gen>m.</gen>
@@ -129052,7 +129052,7 @@ multi^co^la
 
 multi^co^lor		
 :le:multicolor
-:aj:multi^co^lor	0_e
+:aj:multi^co^l or_oLris_adj
 
 
 multi^co^lor	
@@ -134229,7 +134229,7 @@ Ni_^gri^a_nus
 ni^gri^cans		<itype>antis</itype>
 ni_^gri^co^lor		
 :le:nigricolor
-:aj:ni_^gri^co^lor	0_e
+:aj:ni_^gri^co^l or_oLris_adj
 
 
 ni_^gri^cu^lus		
@@ -134780,7 +134780,7 @@ nocti^co^la
 
 nocti^co^lor		
 :le:nocticolor
-:aj:nocti^co^lor	0_e
+:aj:nocti^co^l or_oLris_adj
 
 
 nocti^fer		
@@ -140484,7 +140484,7 @@ omni^carpus
 omni^ci^ens		<itype>entis</itype>
 omni^co^lor		
 :le:omnicolor
-:aj:omni^co^lor	0_e
+:aj:omni^co^l or_oLris_adj
 
 
 omni^cre^ans		<itype>antis</itype>
@@ -140670,7 +140670,7 @@ ompha^los
 
 o^na^ger		<orth>o^na_^grus</orth>	
 :le:onager
-:no:o^na^g	er_i masc
+:no:o^na^g	er_ri masc
 
 
 o^na_gos		
@@ -142050,7 +142050,7 @@ Orchi^us		<itype>a</itype>	<gen>c.</gen>
 Orcho^me^nus		<orth>-os</orth>	
 :le:Orchomenus
 :no:Orcho^me^n	us_i masc fem
-:no:Orcho^me^n	on_i masc orth
+:no:Orcho^me^n	os_i neut orth
 
 Orcho^me^ni^us		
 :le:Orchomenius
@@ -143324,7 +143324,7 @@ ostri^a_go
 
 ostri^co^lor		
 :le:ostricolor
-:aj:ostri^co^lor	0_e
+:aj:ostri^co^l or_oLris_adj
 
 
 ostri^fe^r		
@@ -145480,7 +145480,7 @@ panda_ti^o
 
 pandecter		
 :le:pandecter
-:no:pandect	eLr_eLis masc
+:no:pandect	eLr_eLris masc
 
 
 pandectes		<orth>-ta</orth>	
@@ -145917,7 +145917,7 @@ Panthe_^on		<orth>-um</orth>
 
 panther#2		
 :le:panther#2
-:no:panth	eLr_eLis masc
+:no:panth	eLr_eLris masc
 
 
 panthe_ra#1		
@@ -153837,6 +153837,10 @@ pervo^li^tanti^a
 
 
 pervulga_te_	
+:le:pervulgate
+:wd:pervulga_te_	adverb
+
+
 pe_s
 :le:pes
 :no:	peLs_pedis masc
@@ -154574,8 +154578,8 @@ pha^ge^daeni^cus
 
 pha^ger		<orth type=alt>pa-</orth>	<orth>pha^grus</orth>	<orth type=alt>pa-</orth>	
 :le:phager
-:no:pha^g	er_i masc
-:no:pa^g	er_i masc orth
+:no:pha^g	er_ri masc
+:no:pa^g	er_ri masc orth
 
 
 
@@ -156571,7 +156575,7 @@ phy_se_ma
 
 phy_se_ter		
 :le:physeter
-:no:phy_se_t	eLr_eLis masc
+:no:phy_se_t	eLr_eLris masc
 
 
 phy^si^ca#1		
@@ -164726,7 +164730,7 @@ pressus#2
 
 pre_ster		
 :le:prester
-:no:pre_st	eLr_eLis masc
+:no:pre_st	eLr_eLris masc
 
 
 Preti		
@@ -166241,7 +166245,7 @@ pro^fu_sor
 pro_-gemmans		<itype>antis</itype>
 pro_-ge^ner		
 :le:progener
-:no:pro_-ge^n	er_i masc
+:no:pro_-ge^n	0_i masc
 
 
 pro_ge^ne^ra_tio		
@@ -169211,7 +169215,7 @@ pu^do_ra_tus
 
 pu^do_ri^-co^lor		
 :le:pudoricolor
-:aj:pu^do_ri^-co^lor	0_e
+:aj:pu^do_ri^-co^l or_oLris_adj
 
 
 pu^do_ro_sus		
@@ -175468,7 +175472,7 @@ re_nes		<itype>renum</itype>
 re_n		<orth>rien</orth>	<gen>m.</gen>
 :le:ren
 :no:re_n	0_is masc
-:wd:re_nium	0_is masc gen pl
+:wd:re_nium	masc gen pl
 	
 re_ni^cu^lus		
 :le:reniculus
@@ -189640,9 +189644,9 @@ si^nus#1
 
 si^on#1		
 :le:sion#1
-:no:si^on	irreg_nom2	neut nom/voc/acc sg
-:no:si^i	irreg_nom2	neut gen sg
-:no:si^o	irreg_nom2	neut dat/abl sg
+:wd:si^on	irreg_nom2	neut nom/voc/acc sg
+:wd:si^i	irreg_nom2	neut gen sg
+:wd:si^o	irreg_nom2	neut dat/abl sg
 
 
 Si_on#2		
@@ -191584,7 +191588,7 @@ So_ta^di^cus
 
 So_ter		
 :le:Soter
-:no:So_t	eLr_eLis masc
+:no:So_t	eLr_eLris masc
 
 
 so_te_ri^a		
@@ -192249,7 +192253,7 @@ sphagnos
 
 sphincter		
 :le:sphincter
-:no:sphinct	eLr_eLis masc
+:no:sphinct	eLr_eLris masc
 
 
 Sphinga		<orth type=alt>Spin-</orth>	
@@ -192405,7 +192409,7 @@ spi_no_sus
 
 spinter		<orth type=alt>spinther</orth>	
 :le:spinter
-:no:spint	eLr_eLis neut
+:no:spint	eLr_eLris neut
 
 
 Spintha^rus		
@@ -192415,7 +192419,7 @@ Spintha^rus
 
 Spinther#2		
 :le:Spinther
-:no:Spinth	eLr_eLis masc
+:no:Spinth	eLr_eLris masc
 
 
 Spintum		
@@ -193464,7 +193468,7 @@ sta^ta_ri^a		<orth>sta^ta_ri^i</orth>
 
 sta^ter		
 :le:stater
-:no:sta^t	eLr_eLis masc
+:no:sta^t	eLr_eLris masc
 
 
 sta^te_ra		
@@ -197737,8 +197741,8 @@ su_fes		<orth type=alt>suffes</orth>
 :no:su_fe	s_tis masc
 
 
-:le:Suffenas
-:no:Suffen as_a masc pers_name
+:le:Sufenas
+:no:Sufe_n aLs_aLtis masc pers_name
 
 :le:Seranus
 :no:Seran us_i masc pers_name
@@ -213263,7 +213267,7 @@ u_ni^ceps
 
 u_ni^-co^lor		
 :le:unicolor
-:aj:u_ni^-co^lor	0_e
+:aj:u_ni^-co^l or_oLris_adj
 
 
 u_ni^cornis		
@@ -218144,7 +218148,7 @@ victo_ri^o_sus
 
 victrix		
 :le:victrix
-:no:victr	ix_icLis fem
+:no:victr	ix_iLcis fem
 
 :le:victrix#2
 :aj:victr	ix_adj
@@ -221393,12 +221397,12 @@ Zo_ro^-astre_us
 
 zoster#1		
 :le:zoster#1
-:no:zost	eLr_eLis masc
+:no:zost	eLr_eLris masc
 
 
 Zoster#2		
 :le:Zoster
-:no:Zost	eLr_eLis masc
+:no:Zost	eLr_eLris masc
 
 
 zo_the_ca		
