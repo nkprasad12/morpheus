@@ -17799,12 +17799,9 @@ assi^du^us#1		<orth>ads-</orth>
 :no:assi^du^	us_i masc
 :no:adsi^du^	us_i masc orth
 
-
-
-assi^du^us#2		<orth>ads-</orth>	<itype>Ritschl</itype>
-ass-		<itype>a, um</itype>	<pos>adj.</pos>	
-:le:ass
-:wd:ass-	adverb
+:le:assiduus#2
+:aj:assidu us_a_um
+:aj:ad-sidu us_a_um orth
 
 
 as-si^du^o_		<orth type=alt>ads-</orth>	<orth>assi^du^e_</orth>	<orth type=alt>ads-</orth>	<orth>assi^du^issime_</orth>	<orth type=alt>ads-</orth>	<pos>adj.</pos>	
@@ -148865,6 +148862,12 @@ pe^cus#1	<itype>pecus</itype>	<gen>f.</gen>
 pe^cus#1	<itype>pecus</itype>	<gen>n.</gen>
 pe^cus#2		<itype>u^dis</itype>	<gen>f.</gen>
 pe^cus#3		
+:le:pecus#1
+:no:pec 	us_oris	neut
+
+:le:pecus#2
+:no:pecu 	s_dis masc
+
 :le:pecus#3
 :no:pe^c	us_us masc
 
@@ -172674,6 +172677,7 @@ quintum		<orth>quinto_</orth>
 Quintus#2		
 :le:Quintus
 :no:Qui_nt	us_i masc pers_name
+:no:Qui_nt	a_ae fem pers_name
 
 
 Quinta		
@@ -212254,8 +212258,9 @@ u_ber#1
 
 u_ber#2		<itype>e^ris</itype>	
 :le:uber#2
-:wd:u_ber	adverb
-
+:aj:u_ber	0_adj3
+:aj:u_beri	or_us_comp	comp
+:aj:u_berrim	us_a_um	irreg_superl
 
 u_be^ri^us		<orth>u_berri^me</orth>
 u_bertas		
@@ -216140,13 +216145,8 @@ ventri^cultor
 
 ventri^cu^lus		<orth>ventri^-cu^lum</orth>	
 :le:ventriculus
-:no:ventri^cu^l	us_i neut
-
-
-ventri^cu^lus	
-:le:ventriculus
 :no:ventri^cu^l	us_i masc
-
+:no:ventri^cu^l	us_i neut orth
 
 ventri^flu^us		
 :le:ventrifluus
@@ -220994,11 +220994,6 @@ xysti^ci
 Xysti^lis		
 :le:Xystilis
 :no:Xysti^l	is_is fem
-
-
-xystum		
-:le:xystum
-:no:xyst	us_i neut
 
 
 xystus		

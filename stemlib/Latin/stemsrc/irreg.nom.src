@@ -97,12 +97,6 @@ de_se^s		irreg_adj3 neut acc sg
 de_si^d@decl3_i	irreg_adj3 masc fem neut
 :wd:de_si^de^	irreg_adj3 masc fem neut abl sg
 
-:le:obses
-obse^s		irreg_nom3 masc fem nom voc sg
-opse^s		irreg_nom3 masc fem nom voc sg orth
-obsi^d@decl3	irreg_nom3 masc fem
-opsi^d@decl3	irreg_nom3 masc fem orth
-
 :le:praeses
 praese^s	irreg_nom3 masc fem nom voc sg
 praesi^d@decl3	irreg_nom3 masc fem

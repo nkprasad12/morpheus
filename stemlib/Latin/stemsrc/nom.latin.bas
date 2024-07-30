@@ -1,4 +1,4 @@
-:le:dum
+:le:dummodo
 :wd:dummodo	conj
 
 :le:ago
@@ -96,7 +96,7 @@
 :le:undequinquaginta
 :wd:u_nde_qui_nqua_ginta_ numeral
 
-:le:enim
+:le:enimvero
 :wd:enimve_ro_	adverb
 
 :le:tantusdem
@@ -162,7 +162,7 @@
 :le:sexus
 :no:sex	us_us masc
 
-:le:vix
+:le:vixdum
 :wd:vixdum adverb
 
 :le:ulterior
@@ -184,7 +184,7 @@
 :le:segnitia
 :no:se_gni^ti	a_ae fem
 
-:le:quot
+:le:quotannis
 :wd:quotanni_s adverb
 
 :le:propior
@@ -203,7 +203,7 @@
 
 :le:obses
 :no:obs es_idis masc fem
-:no:ops es_idis masc fem
+:no:ops es_idis masc fem orth
 
 :le:maritimus
 :aj:ma^ri^ti^m	us_a_um
@@ -332,14 +332,6 @@
 
 :le:astutus
 :aj:astu_t	us_a_um
-
-:le:assiduus
-:no:assidu us_i masc
-:no:ad-sidu us_i masc
-
-:le:assiduus
-:aj:assidu us_a_um
-:aj:ad-sidu us_a_um
 
 :le:at
 :wd:at	conj
@@ -1118,12 +1110,6 @@
 :le:pater
 :no:pa^t	er_ris masc
 
-:le:pecus
-:no:pec 	or_oris	neut
-
-:le:pecus
-:no:pecu 	s_dis masc fem
-
 :le:Penates
 :no:pena_t	is_is masc pl
 
@@ -1224,13 +1210,6 @@
 :le:prior
 :wd:priusquam	adverb
 
-:le:pro
-:wd:pro_	prep
-:wd:pro_	adverb
-
-:le:pro
-:wd:pro_	exclam
-
 :le:propter
 :wd:propter	adverb
 :wd:propter	prep
@@ -1280,7 +1259,7 @@
 :wd:qui_n	conj
 
 :le:quingenti
-:wd:qui_ngenti_ numeral
+:wd:qui_ngenti_ numeral pl
 
 :le:quinquaginta
 :wd:qui_nqua_ginta_ numeral
@@ -1288,13 +1267,13 @@
 :le:quinque
 :wd:qui_nque	numeral
 
-:le:quintus
-:aj:qui_nt	us_a_um
-:aj:qui_nct	us_a_um
+#:le:quintus
+#:aj:qui_nt	us_a_um
+#:aj:qui_nct	us_a_um
 
-:le:quintus	
-:no:Qui_nt	us_i masc
-:no:Qui_nt	a_ae fem
+#:le:quintus	
+#:no:Qui_nt	us_i masc
+#:no:Qui_nt	a_ae fem
 
 :le:quodsi
 :wd:quodsi_ 	conj
@@ -1511,13 +1490,6 @@
 :le:Turpio
 :no:Turpi	o_oLnis masc
 
-:le:uber
-:no:u_b 		er_eris neut
-
-:le:uber
-:aj:u_ber	0_adj3
-:aj:u_beri	or_us_comp	comp
-:aj:u_berrim	us_a_um	irreg_superl
 
 :le:ubi
 :wd:ubi_^	conj
@@ -1542,9 +1514,6 @@
 :le:undique
 :wd:undique	adverb
 
-:le:urbs
-:no:urb s_is fem
-
 :le:utrum
 :wd:utrum conj
 :wd:utrumvi_s conj
@@ -1562,9 +1531,6 @@
 :le:velut
 :wd:velut	adverb
 :wd:veluti_	adverb
-
-:le:vester
-:aj:vest	er_ra_rum
 
 :le:vestis
 :no:vest	is_is fem
@@ -1587,9 +1553,6 @@
 :le:vinculum
 :no:vincul	us_i neut
 :no:vincl	us_i neut
-
-:le:vir
-:no:vir	0_i masc
 
 :le:vox
 :no:vo_	x_cis fem

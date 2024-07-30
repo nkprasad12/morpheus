@@ -463,11 +463,6 @@
 :vs:gre^d	conj3_io dep comp_only
 :vs:gress	pp4 dep 
 
-:le:habeo
-:vs:ha^b 	conj2
-:vs:ha^bu^ 	perfstem
-:vs:ha^bi^t 	pp4
-
 :le:haurio
 :vs:haur	conj4
 :vs:haus	perfstem
