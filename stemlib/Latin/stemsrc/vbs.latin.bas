@@ -701,9 +701,9 @@
 
 :le:oportet
 :vs:oport	conj2 3rd sg
-@	inf
+:vs:oport	conj2 inf
 :vs:oportu	perfstem 3rd sg
-@	inf
+:vs:oportu	perfstem inf
 
 :le:ordior
 :vs:o_rd		conj4
@@ -756,7 +756,7 @@
 
 :le:pertaedet
 :vs:pertaed	conj2 3rd sg
-@ inf
+:vs:pertaed	conj2 inf
 :vs:pertaes	pp4
 
 :le:pingo

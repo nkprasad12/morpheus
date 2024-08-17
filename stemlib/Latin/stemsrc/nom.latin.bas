@@ -497,11 +497,13 @@
 :le:Culleo
 :no:Culle	o_oLnis masc
 
-:le:cum
-:wd:cum		conj
+:le:cum#1
 :wd:cum		prep
-:wd:quom	conj
-:wd:quum	conj
+
+:le:cum#2
+:wd:cum		conj
+:wd:quom	conj orth
+:wd:quum	conj orth
 
 :le:Curvus
 :no:Curv	us_i masc pers_name
