@@ -836,7 +836,7 @@
 :vs:ru^	conj3
 :vs:ru^	perfstem
 :vs:ru^t	pp4 no_fut_part
-:vs:ru^i^t	fut_part
+:vs:ru^i^t	pp4 fut part
 
 :le:sacrufico
 :de:sa^_cru^fi^c	are_vb

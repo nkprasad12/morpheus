@@ -16,10 +16,8 @@
 :vs:subru^	conj3 orth
 :vs:surru^	perfstem
 :vs:subru^	perfstem orth
-:vs:surru^t	pp4 no_fut_part
-:vs:subru^t	pp4 no_fut_part orth
-:vs:surru^i^t	fut_part
-:vs:subru^i^t	fut_part orth
+:vs:surru^t	pp4
+:vs:subru^t	pp4 orth
 
 :le:coalesco
 :vs:co^a^le_sc conj3
@@ -1332,8 +1330,7 @@
 :le:obruo
 :vs:obru^ conj3 
 :vs:obru^ perfstem 
-:vs:obru^t pp4 no_fut_part
-:vs:obru^i^t fut_part 
+:vs:obru^t pp4
 
 #ob-sto obsto
 #ob + sto -> ob + sto 
@@ -1729,8 +1726,7 @@
 :le:superruo
 :vs:su^perru^ conj3 
 :vs:su^perru^ perfstem 
-:vs:su^perru^t pp4 no_fut_part
-:vs:su^perru^i^t fut_part 
+:vs:su^perru^t pp4
 
 #super-stringo su^perstringo
 #super + stringo -> su^per + stringo 
