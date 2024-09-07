@@ -1,7 +1,7 @@
 :le:dummodo
 :wd:dummodo	conj
 
-:le:ago
+:le:agitedum
 :wd:agitedum	adverb
 
 :le:nurus
@@ -656,11 +656,27 @@
 :aj:fa^ci^l	is_e comp
 :aj:fa^ci^llim	us_a_um irreg_superl
 
-:le:familia
-:wd:paterfamilia_s	irreg_decl3 nom masc sg
-:wd:patre_sfamilia_s	irreg_decl3 nom masc pl
-:wd:ma_terfamilia_s	irreg_decl3 nom fem sg
-:wd:ma_tre_sfamilia_s	irreg_decl3 nom fem pl
+:le:paterfamilias
+:wd:paterfamilia_s nom masc sg
+:wd:patrisfamilia_s gen masc sg
+:wd:patri_familia_s dat masc sg
+:wd:patremfamilia_s acc masc sg
+:wd:patrefamilia_s abl masc sg
+:wd:paterfamilia_s voc masc sg
+:wd:patre_sfamilia_s nom masc pl
+:wd:patre_sfamilia_s acc masc pl
+:wd:patre_sfamilia_s voc masc pl
+
+:le:materfamilias
+:wd:ma_terfamilia_s nom masc sg
+:wd:ma_trisfamilia_s gen masc sg
+:wd:ma_tri_familia_s dat masc sg
+:wd:ma_tremfamilia_s acc masc sg
+:wd:ma_trefamilia_s abl masc sg
+:wd:ma_terfamilia_s voc masc sg
+:wd:ma_tre_sfamilia_s nom masc pl
+:wd:ma_tre_sfamilia_s acc masc pl
+:wd:ma_tre_sfamilia_s voc masc pl
 
 :le:famulus
 :no:fa^mu^l	us_i masc
@@ -1261,7 +1277,7 @@
 :wd:qui_n	conj
 
 :le:quingenti
-:wd:qui_ngenti_ numeral pl
+:no:qui_ngent us_a_um numeral pl
 
 :le:quinquaginta
 :wd:qui_nqua_ginta_ numeral

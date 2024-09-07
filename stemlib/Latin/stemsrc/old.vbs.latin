@@ -18,10 +18,6 @@
 :vs:mon conj2
 :vs:monu perfstem
 
-:le:duco
-:vs:du_c conj3
-:vs:du_x perfstem
-
 :le:finio
 :vs:fin conj4
 :vs:fini_v perfstem
@@ -69,8 +65,6 @@
 :de:accu_si^t	are_vb
 :le:acedior
 :de:a^ce_di^	are_vb dep
-:le:acerbo
-:de:a^cerb	are_vb
 :le:acervo
 :de:a^cerv	are_vb
 :le:acumino
@@ -160,8 +154,6 @@ a^cu^o		<itype>ui, u_tum, 3</itype>	<pos>v. a.</pos>	<orth>a^cu_tus</orth>	<ityp
 :de:a^dulte^r	are_vb
 :le:adumbro
 :de:a^d-umbr	are_vb
-:le:aduno
-:de:a^d-u_n	are_vb
 :le:advelo
 :de:ad-ve_l	are_vb
 :le:adveneror
@@ -194,8 +186,6 @@ a^cu^o		<itype>ui, u_tum, 3</itype>	<pos>v. a.</pos>	<orth>a^cu_tus</orth>	<ityp
 :de:aestu^	are_vb
 :le:affiguro
 :de:af-fi^gu_r	are_vb
-:le:affirmo
-:de:af-firm	are_vb
 :le:afflicto
 :de:afflict	are_vb
 :le:afflo
@@ -208,8 +198,6 @@ a^cu^o		<itype>ui, u_tum, 3</itype>	<pos>v. a.</pos>	<orth>a^cu_tus</orth>	<ityp
 :de:ag-glo^me^r	are_vb
 :le:aggravo
 :de:ag-gra^v	are_vb
-:le:aggrego
-:de:ag-gre^g	are_vb
 :le:agguberno
 :de:ag-gu^bern	are_vb
 :le:agito
@@ -286,8 +274,6 @@ a^cu^o		<itype>ui, u_tum, 3</itype>	<pos>v. a.</pos>	<orth>a^cu_tus</orth>	<ityp
 :de:ap-pro^b	are_vb
 :le:appropero
 :de:ap-pro^pe^r	are_vb
-:le:appropinquo
-:de:ap-pro^pinqu	are_vb
 :le:apto
 :de:apt	are_vb
 :le:aquor
@@ -325,8 +311,6 @@ a^cu^o		<itype>ui, u_tum, 3</itype>	<pos>v. a.</pos>	<orth>a^cu_tus</orth>	<ityp
 :le:assevero
 :de:as-se^ve_r	are_vb
 	<pos>v. a.</pos>	<orth>adse^ve_ranter</orth>	<orth>adse^ve_ra_te_</orth>	<orth>adse^ve_ranter:</orth>	<itype>loqui valde adseveranter</itype>	<orth>adse^ve_ra_te_:</orth>	<itype>tragoedias scite atque adseverate actitavit</itype>
-:le:assigno
-:de:assign	are_vb
 :le:assimulo
 :de:as-si^mu^l	are_vb
 :le:asso
@@ -754,8 +738,6 @@ claudo#1		<orth>clo_do:</orth>	<itype>clodunt ita</itype>	<orth>clu_do</orth>	<i
 :de:con-sce^le^r	are_vb
 :le:conscribillo
 :de:conscri_bill	are_vb
-:le:consecro
-:de:conse_^cr	are_vb
 :le:consector
 :de:con-sect	are_vb dep
 :le:considero
@@ -2054,8 +2036,6 @@ di-stringo		<itype>nxi, ctum, 3</itype>	<pos>v. a.</pos>	<pos>P. a.</pos>	<orth>
 :de:insi^di^	are_vb
 :le:insidior
 :de:insi^di^	are_vb dep
-:le:insimulo
-:de:in-si^mu^l	are_vb
 :le:insinuo
 :de:in-si^nu^	are_vb
 :le:insolo
@@ -2182,8 +2162,6 @@ di-stringo		<itype>nxi, ctum, 3</itype>	<pos>v. a.</pos>	<pos>P. a.</pos>	<orth>
 :de:ju^g	are_vb
 :le:jugulo
 :de:ju^gu^l	are_vb
-:le:jurgo
-:de:jurg	are_vb
 :le:juro
 :de:ju_r	are_vb
 :le:juro
@@ -2396,8 +2374,6 @@ di-stringo		<itype>nxi, ctum, 3</itype>	<pos>v. a.</pos>	<pos>P. a.</pos>	<orth>
 :de:mi_li^t	are_vb
 :le:minio
 :de:mi^ni^	are_vb
-:le:ministro
-:de:mi^nistr	are_vb
 :le:mino
 :de:mi^n	are_vb
 :le:minor
@@ -3014,8 +2990,6 @@ di-stringo		<itype>nxi, ctum, 3</itype>	<pos>v. a.</pos>	<pos>P. a.</pos>	<orth>
 :de:praesti^n	are_vb
 :le:praesulor
 :de:praesu^l	are_vb dep
-:le:praetento
-:de:prae-tent	are_vb
 :le:praevaporo
 :de:prae-va^po_r	are_vb
 :le:praevaricor

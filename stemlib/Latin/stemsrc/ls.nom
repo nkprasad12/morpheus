@@ -13725,6 +13725,8 @@ a_^pri_cum
 A_^pri_lis		
 :le:Aprilis
 :aj:A_^pri_l	is_e
+:wd:A_^pr abbrev
+:wd:A_^pril abbrev
 
 	
 :le:Aprilis
@@ -33684,6 +33686,7 @@ caupo		<orth>co_po</orth>	<orth>cu_po</orth>
 :le:caupo
 :no:caup	o_oLnis masc
 :no:cu_p	o_oLnis masc orth
+:no:co_p    o_oLnis masc orth
 
 
 
@@ -51098,7 +51101,7 @@ cro^co^di_li^on		<orth type=alt>-le^on</orth>
 cro^co^di_lus		
 :le:crocodilus
 :no:cro^co^di_l	us_i masc
-
+:no:co^rco^di_l	us_i masc orth
 
 corco^di_lus	
 cro^co^fanti^a		<orth type=alt>cro^cu^-</orth>	<orth type=alt>-phanti^a</orth>	
@@ -65092,6 +65095,9 @@ e_jecta_mentum
 :le:ejectamentum
 :no:e_jecta_ment	us_i neut
 
+
+:le:ejusmodi
+:wd:e_jusmo^di_ adverb
 
 e_jecti_ci^us		<orth>-ti^us</orth>	
 :le:ejecticius
@@ -81279,16 +81285,18 @@ ge^nae
 Ge_na^bum		
 :le:Genabum
 :no:Ge_na^b	us_i neut
-
+:no:Ce_na^b	us_i neut orth
 
 Ge_-na^bensis		
 :le:Genabensis
 :aj:Ge_-na^bens	is_e
+:aj:Ce_-na^bens	is_e orth
 
 
 Genabenses		
 :le:Genabenses
 :no:Ge_nabens	is_is masc pl
+:no:Ce_nabens	is_is masc pl orth
 
 
 Ge^nauni		
@@ -94538,17 +94546,12 @@ impro_vi_sus		<orth type=alt>inpr-</orth>
 :le:improvisus
 :aj:impro_vi_s	us_a_um
 :aj:inpro_vi_s	us_a_um orth
-
+:wd:impro_vi_so	adverb
 
 
 impro_vi_sum		
 :le:improvisum
 :no:impro_vi_s	us_i neut
-
-
-impro_vi_sus	<itype>Hence</itype>	
-:le:improvisus
-:wd:impro_vi_sus	adverb
 
 
 impro_vi_so		<orth type=alt>class.</orth>	<orth>impro_vi_se_</orth>
@@ -103586,15 +103589,6 @@ in-testa_tus#1
 :aj:in-testa_t	us_a_um
 
 
-intesta_tus		
-:le:intestatus
-:no:intesta_t	us_i masc
-
-
-intesta_-ta		
-:le:intestata
-:no:intesta_-t	a_ae fem
-
 	<pos>adv.</pos>
 intesta_to_		<orth>ab intesta_to_</orth>
 in-testa_tus#2		
@@ -107582,9 +107576,10 @@ Ka^lendae		<orth>Cal-</orth>
 :le:Kalendae
 :no:Ka^lend	a_ae fem pl is_month
 :no:ka^lend	a_ae fem pl is_month
+:no:Ka^lend	a_ae fem pl is_month
 :no:Calend	a_ae fem pl orth is_month
 :no:calend	a_ae fem pl orth is_month
-
+:wd:Ka^l	fem pl is_month abbrev
 
 
 Ka^lenda_lis		<orth>Ka^lenda_ris</orth>	
@@ -136686,6 +136681,10 @@ nu_s
 :wd:nus	masc indecl
 
 
+:le:exesto
+:wd:exesto_ exclam
+
+
 nuscitio_sum		<orth type=alt>nuscicio_sum</orth>	<itype>Ateius Philologus ait appellari solitum</itype>
 nusquam		
 :le:nusquam
@@ -141562,6 +141561,7 @@ opportu_ni^tas		<orth type=alt>obp-</orth>
 :le:opportunitas
 :no:opportu_ni^	tas_tatis fem
 :no:obportu_ni^	tas_tatis fem orth
+:no:o_portu_ni^	tas_tatis fem orth
 
 
 
@@ -141569,7 +141569,7 @@ opportu_nus		<orth type=alt>obp-</orth>
 :le:opportunus
 :aj:opportu_n	us_a_um
 :aj:obportu_n	us_a_um orth
-
+:aj:o_portu_n	us_a_um orth
 
 
 op-portu_na		

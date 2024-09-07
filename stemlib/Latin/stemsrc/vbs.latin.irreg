@@ -9,10 +9,10 @@
 :vb:e_stis	irreg_pp1 2nd pl pres ind act archaic
 #
 :vb:edim	irreg_pp1 1st sg pres subj act archaic
-:vb:edis	irreg_pp1 2nd sg pres subj act archaic
+:vb:edi_s	irreg_pp1 2nd sg pres subj act archaic
 :vb:edit	irreg_pp1 3rd sg pres subj act archaic
-:vb:edimus	irreg_pp1 1st pl pres subj act archaic
-:vb:editis	irreg_pp1 2nd pl pres subj act archaic
+:vb:edi_mus	irreg_pp1 1st pl pres subj act archaic
+:vb:edi_tis	irreg_pp1 2nd pl pres subj act archaic
 :vb:edint	irreg_pp1 3rd pl pres subj act archaic
 #
 :vb:e_sse_s	irreg_pp1 2nd sg imperf subj act archaic
@@ -24,9 +24,9 @@
 :vb:e_s		irreg_pp1 2nd sg pres imperat act archaic
 :vb:e_ste	irreg_pp1 2nd pl pres imperat act archaic
 #
-:vb:e_sto	irreg_pp1 2nd sg pres imperat act archaic
-:vb:e_sto	irreg_pp1 3rd sg pres imperat act archaic
-:vb:e_stote	irreg_pp1 2nd pl pres imperat act archaic
+:vb:e_sto_	irreg_pp1 2nd sg pres imperat act archaic
+:vb:e_sto_	irreg_pp1 3rd sg pres imperat act archaic
+:vb:e_sto_te	irreg_pp1 2nd pl pres imperat act archaic
 #
 :vb:e_sse	irreg_pp1 pres inf act
 
@@ -41,10 +41,10 @@
 :vb:com-e_stis	irreg_pp1 2nd pl pres ind act archaic
 #
 :vb:com-edim	irreg_pp1 1st sg pres subj act archaic
-:vb:com-edis	irreg_pp1 2nd sg pres subj act archaic
+:vb:com-edi_s	irreg_pp1 2nd sg pres subj act archaic
 :vb:com-edit	irreg_pp1 3rd sg pres subj act archaic
-:vb:com-edimus	irreg_pp1 1st pl pres subj act archaic
-:vb:com-editis	irreg_pp1 2nd pl pres subj act archaic
+:vb:com-edi_mus	irreg_pp1 1st pl pres subj act archaic
+:vb:com-edi_tis	irreg_pp1 2nd pl pres subj act archaic
 :vb:com-edint	irreg_pp1 3rd pl pres subj act archaic
 #
 :vb:com-e_sse_s	irreg_pp1 2nd sg imperf subj act archaic
@@ -56,9 +56,9 @@
 :vb:com-e_s		irreg_pp1 2nd sg pres imperat act archaic
 :vb:com-e_ste	irreg_pp1 2nd pl pres imperat act archaic
 #
-:vb:com-e_sto	irreg_pp1 2nd sg pres imperat act archaic
-:vb:com-e_sto	irreg_pp1 3rd sg pres imperat act archaic
-:vb:com-e_stote	irreg_pp1 2nd pl pres imperat act archaic
+:vb:com-e_sto_	irreg_pp1 2nd sg pres imperat act archaic
+:vb:com-e_sto_	irreg_pp1 3rd sg pres imperat act archaic
+:vb:com-e_sto_te	irreg_pp1 2nd pl pres imperat act archaic
 #
 :vb:com-e_sse	irreg_pp1 pres inf act
 
