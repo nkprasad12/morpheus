@@ -613,19 +613,8 @@
 :le:nosco
 :vs:no_sc	conj3
 :vs:no_v	perfstem
-:vb:no_sti_	2nd sg perf ind act contr	
-:vb:no_stis	2nd pl perf ind act contr
-:vb:no_runt	3rd pl perf ind act contr
-:vb:no_rim	1st sg perf subj act contr
-:vb:no_rit	3rd sg perf subj act contr
 :vs:no_t	pp4
-:vb:no_ris	2nd sg futperf ind act contr
-:vb:no_ram	1st sg plup ind act contr
-:vb:no_ra_s	2nd sg plup ind act contr
-:vb:no_rat	3rd sg plup ind act contr
-:vb:no_rant	3rd pl plup ind act contr
-:vb:no_runt	3rd pl futperf ind act contr
-:vb:no_sse	perf inf act contr
+:vs:no_ nosco_contr_perf
 :vs:gno_sc	conj3 orth
 :vs:gno_v	perfstem orth
 :vs:gno_t	pp4 orth

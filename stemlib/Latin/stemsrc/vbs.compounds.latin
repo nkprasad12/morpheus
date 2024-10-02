@@ -1420,23 +1420,12 @@
 #per + nosco -> per + nosco 
 :le:pernosco
 :vs:perno_sc conj3 
-:vs:perno_v perfstem 
+:vs:perno_v perfstem
+:vs:perno_ nosco_contr_perf
 :vs:perno_t pp4 
 :vs:pergno_sc conj3 orth
 :vs:pergno_v perfstem orth
 :vs:pergno_t pp4 orth
-:vb:perno_sti_ perf ind act 2nd sg contr
-:vb:perno_stis perf ind act 2nd pl contr
-:vb:perno_runt perf ind act 3rd pl contr
-:vb:perno_rim perf subj act 1st sg contr
-:vb:perno_rit perf subj act 3rd sg contr
-:vb:perno_ris futperf ind act 2nd sg contr
-:vb:perno_ram plup ind act 1st sg contr
-:vb:perno_ra_s plup ind act 2nd sg contr
-:vb:perno_rat plup ind act 3rd sg contr
-:vb:perno_rant plup ind act 3rd pl contr
-:vb:perno_runt futperf ind act 3rd pl contr
-:vb:perno_sse perf inf act contr
 
 #per-ungo pe^rungo
 #per + ungo -> pe^r + ungo 

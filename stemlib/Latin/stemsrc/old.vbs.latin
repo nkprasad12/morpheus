@@ -634,8 +634,6 @@ claudo#1		<orth>clo_do:</orth>	<itype>clodunt ita</itype>	<orth>clu_do</orth>	<i
 :de:compress	are_vb
 :le:comprobo
 :de:com-pro^b	are_vb
-:le:computo
-:de:com-pu^t	are_vb
 :le:concaco
 :de:con-ca^c	are_vb
 :le:concamero
@@ -1874,8 +1872,6 @@ di-stringo		<itype>nxi, ctum, 3</itype>	<pos>v. a.</pos>	<pos>P. a.</pos>	<orth>
 :de:impro^pe^r	are_vb
 :le:impugno
 :de:impugn	are_vb
-:le:imputo
-:de:impu^t	are_vb
 :le:inaedifico
 :de:i^n-aedi^fi^c	are_vb
 :le:inaltero

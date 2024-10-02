@@ -302,6 +302,10 @@
 :vs:ac-qui_r	conj3
 :vs:ac-qui_si_v perfstem
 :vs:ac-qui_si_t pp4
+:vs:ad-qui_r	conj3 orth
+:vs:ad-qui_si_v perfstem orth
+:vs:ad-qui_si_t pp4 orth
+
 :le:actito
 :de:a_cti^t	are_vb
 :le:acumino
@@ -1110,7 +1114,9 @@
 :vs:ad-pe^t	conj3 orth
 :vs:ad-pe^ti_v	perfstem orth
 :vs:ad-pe^t	perfstem orth syncop
+:vs:ad-pe^ti^	perfstem orth variant
 :vs:ad-pe^ti_t	pp4 orth
+
 :le:appingo#1
 :vs:ap-ping	conj3
 :le:appingo#2
@@ -2434,16 +2440,9 @@
 :le:cognosco
 :vs:co-gno_sc	conj3
 :vs:co-gno_v perfstem
+:vs:cogno_ nosco_contr_perf
 :vs:co-gni^t pp4
-:vb:cogno_sti_	2nd sg perf ind act contr	
-:vb:cogno_stis	2nd pl perf ind act contr
-:vb:cogno_runt	3rd pl perf ind act contr
-:vb:cogno_rim	1st sg perf subj act contr
-:vb:cogno_rit	3rd sg perf subj act contr
-:vb:cogno_ris	2nd sg futperf ind act contr
-:vb:cogno_ras	2nd sg plup ind act contr
-:vb:cogno_runt	3rd pl futperf ind act contr
-:vb:cogno_sse	perf inf act contr
+
 :le:cogo
 :vs:co_g	conj3
 :vs:co^e_g perfstem
@@ -2921,6 +2920,7 @@
 :de:com-pu_rg	are_vb
 :le:computo
 :de:com-pu^t	are_vb
+:de:con-pu^t	are_vb orth
 :le:computresco
 :vs:com-pu_^tre_sc	conj3
 :vs:com-pu_^tru^ perfstem
@@ -7642,6 +7642,7 @@
 :le:ignosco
 :vs:igno_sc	conj3
 :vs:igno_v perfstem
+:vb:igno_sset plup 3rd sg subj act contr
 :vs:igno_t pp4
 :le:illabor
 :vs:illa_b	conj3
@@ -7879,6 +7880,10 @@
 :vs:impo_n	conj3
 :vs:impo^su^ perfstem
 :vs:impo^si^t pp4
+:vs:inpo_n	conj3 orth
+:vs:inpo^su^ perfstem orth
+:vs:inpo^si^t pp4 orth
+
 :le:imporco
 :de:imporc	are_vb
 :le:importo
@@ -7903,6 +7908,7 @@
 :de:impugn	are_vb
 :le:imputo
 :de:impu^t	are_vb
+:de:inpu^t	are_vb orth
 :le:imputresco
 :vs:impu^tre_sc	conj3
 :vs:impu^tru perfstem
@@ -8937,6 +8943,7 @@
 :vs:inter-no_sc	conj3
 :vs:inter-no_v perfstem
 :vs:inter-no_t pp4
+:vb:inter-no_sse perf inf act contr
 :le:internuntio
 :de:inter-nu_nti	are_vb
 :le:intero
@@ -12811,6 +12818,9 @@
 :de:praeno_mi^n	are_vb
 :le:praenosco
 :vs:prae-no_sc	conj3
+:vs:prae-no_v perfstem
+:vs:prae-no_ nosco_contr_perf
+:vs:prae-no_t pp4
 :le:praenoto
 :de:prae-no^t	are_vb
 :le:praenuntio

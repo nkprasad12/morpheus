@@ -13470,7 +13470,7 @@ Appi^o^lae		<orth>Api^-</orth>
 Appi^us		
 :le:Appius
 :no:App	ius_i masc
-
+:wd:Ap masc abbrev
 
 Appi^a		
 :le:Appia
@@ -14035,6 +14035,9 @@ A^quili^a_nus		<orth type=alt>A^quill-</orth>
 
 
 a^qui^li^fer		<itype>fe_ri</itype>	<gen>m.</gen>
+:le:aquilifer
+:no:a^qui^li^fer 0_i masc
+
 a^qui^li_nus		
 :le:aquilinus
 :aj:a^qui^li_n	us_a_um
@@ -18952,6 +18955,8 @@ Atre^ba^tes
 :le:Atrebates
 :no:Atre^ba^t	0_is masc pl
 
+:le:Atre^bas
+:no:Atre^ba s_tis masc sg
 
 Atre^-bas		<itype>a^tis</itype>	<gen>m.</gen>
 Atre^ba^ti^cus		
@@ -45201,11 +45206,6 @@ confectu_ra
 :no:confectu_r	a_ae fem
 
 
-confer-tus		
-:le:confertus
-:aj:confer-t	us_a_um
-
-
 conferte_	
 confertim		
 :le:confertim
@@ -54502,12 +54502,12 @@ da^ni_sti^cus
 Da_nu^vi^us		<orth>-ubius</orth>	<itype>is a corruption of late Latin</itype>	
 :le:Danuvius
 :no:Da_nu^v	ius_i masc
-
+:no:Da_nu^b	ius_i masc orth
 
 Da_nu^vi_nus		<orth type=alt>Danub-</orth>	
 :le:Danuvinus
 :aj:Da_nu^vi_n	us_a_um
-
+:aj:Da_nu^bi_n	us_a_um orth
 
 da^pa_li^s		
 :le:dapalis
@@ -80120,6 +80120,7 @@ Ga_i^us		<orth>Ca_i^us</orth>
 :no:Ga_i^	us_i masc
 :no:Ca_	ius_i masc orth
 :no:Ca_i^	us_i masc orth
+:wd:C masc abbrev
 
 
 
@@ -112537,6 +112538,7 @@ lexis
 Lexobi^i		<orth type=alt>Lexovi^i</orth>	
 :le:Lexobii
 :no:Lexobi^	us_i masc pl
+:no:Lexovi^	us_i masc pl orth
 
 
 lia_cu^lum	
@@ -115602,6 +115604,7 @@ lu_ci^sa^tor
 Lu_ci^us#1		
 :le:Lucius
 :no:Lu_c	ius_i masc
+:wd:L masc abbrev
 
 
 Lu_cia		<orth>Lucipor</orth>	<itype>for Lucii puer</itype>
@@ -120085,7 +120088,7 @@ marcus#1
 Marcus#2		
 :le:Marcus
 :no:Ma_rc	us_i masc pers_name
-
+:wd:M masc abbrev
 
 Marci^a_nus		
 :le:Marcianus
@@ -137632,6 +137635,7 @@ obsce_nus		<orth>obscaen-</orth>	<orth>obscoen-</orth>
 :le:obscenus
 :aj:obsce_n	us_a_um
 :aj:obscoen	us_a_um orth
+:aj:obscaen	us_a_um orth
 
 
 
@@ -169153,7 +169157,7 @@ Pu_bli^por
 Publius		
 :le:Publius
 :no:Pu_bl	ius_i masc
-
+:wd:P masc abbrev
 
 Publi^a_nus		
 :le:Publianus
@@ -172678,6 +172682,7 @@ Quintus#2
 :le:Quintus
 :no:Qui_nt	us_i masc pers_name
 :no:Qui_nt	a_ae fem pers_name
+:wd:Q abbrev
 
 
 Quinta		
@@ -187576,7 +187581,7 @@ servi^tu_s
 Servi^us		
 :le:Servius
 :no:Serv	ius_i masc
-
+:wd:Ser masc abbrev
 
 Servi^a_nus		
 :le:Servianus
@@ -203261,7 +203266,7 @@ te^na_ci^ter
 Tenchthe_ri		<orth type=alt>Tencte_ri</orth>	
 :le:Tenchtheri
 :no:Tenchthe_r	us_i masc pl
-
+:no:Tencte_r	us_i masc pl orth
 
 Tende_ba		
 :le:Tendeba
@@ -207053,7 +207058,7 @@ Titurni^us
 Ti^tus		
 :le:Titus
 :no:Ti^t	us_i masc
-
+:wd:T masc abbrev
 
 Ti^ty^os		<itype>y^i</itype>	<gen>m.</gen>
 Ti_ty^rus		

@@ -11,3 +11,15 @@
 
 :le:Liscus
 :no:Lisc us_i masc pers_name
+
+#@wikidata:Q1174354
+:le:Convictolitavis
+:no:Convictolitav decl3 masc pers_name
+
+#@wikidata:Q1092513
+:le:Cingetorix
+:no:Cingetori x_gis masc pers_name
+
+#@http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=agedincum
+:le:Agedincum
+:no:Agedinc us_i neut town place_name

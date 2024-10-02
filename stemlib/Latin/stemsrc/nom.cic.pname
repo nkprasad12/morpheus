@@ -312,8 +312,9 @@
 #:no:Glaucipp	us_i masc
 #
 #
-#:le:Gnaeus
-#:no:Gnae	us_i masc
+:le:Gnaeus
+:no:Gnae	us_i masc
+:wd:Cn masc abbrev
 #
 #
 #:le:Graeceius
