@@ -1335,9 +1335,9 @@
 :le:assideo
 :vs:as-si^d	conj2
 :vs:ad-si^d	conj2 orth
-:vs:as-si^se_d perfstem
-:vs:ad-si^se_d perfstem orth
-:vs:as-si^sess pp4
+:vs:as-se_d perfstem
+:vs:ad-se_d perfstem orth
+:vs:as-sess pp4
 :le:assido
 :vs:as-si_d	conj3
 :vs:ad-si_d	conj3 orth
@@ -2488,7 +2488,10 @@
 :le:collabello
 :de:col-la^bell	are_vb
 :le:collabor
-:vs:col-la_b	conj3
+:vs:col-la_b	conj3 dep
+:vs:con-la_b	conj3 orth dep
+:vs:col-la_p	pp4 dep
+:vs:con-la_p	pp4 orth dep
 :le:collaboro
 :de:col-la^bo_r	are_vb
 :le:collacrimo
@@ -2780,8 +2783,10 @@
 :vs:com-pa_ru perfstem
 :le:comparo#1
 :de:compa^r	are_vb
+:de:conpa^r	are_vb orth
 :le:comparo#2
 :de:com-pa^r	are_vb
+:de:con-pa^r	are_vb orth
 :le:compartior
 :de:com-part	ire_vb dep
 :le:comparturio
@@ -2876,6 +2881,9 @@
 :vs:com-po_n	conj3
 :vs:com-po^su^ perfstem
 :vs:com-po^si^t	pp4
+:vs:con-po_n	conj3 orth
+:vs:con-po^su^ perfstem orth
+:vs:con-po^si^t	pp4 orth
 :le:comporto
 :de:com-port	are_vb
 :le:compotio
@@ -6103,6 +6111,9 @@
 :de:esc	are_vb
 :le:esito
 :de:e_si^t	are_vb
+:le:esurio#1
+:de:e_su^r	ire_vb
+:de:essu^ri^	ire_vb orth
 :le:eunucho
 :de:eunu_ch	are_vb
 :le:evacuo
@@ -6257,6 +6268,8 @@
 :de:ex-apt	are_vb
 :le:exardeo
 :vs:ex-a_rd	conj2
+:vs:exa_rs perfstem
+:vs:exa_rs pp4
 
 :le:exaresco
 :vs:ex-a_re_sc	conj3
@@ -6719,6 +6732,8 @@
 :le:exsorbeo
 :vs:ex-sorb	conj2
 :vs:ex-sorbu^ perfstem
+:vs:ex-orb	conj2 orth
+:vs:ex-orbu^ perfstem orth
 :le:exsordesco
 :vs:ex-sorde_sc	conj3
 :le:exspatior
@@ -6806,6 +6821,7 @@
 :vs:ex-tend	conj3
 :vs:ex-tend perfstem
 :vs:ex-tent pp4
+:vs:ex-tens pp4 orth
 :le:extento
 :de:extent	are_vb
 :le:extenuo
@@ -7760,6 +7776,9 @@
 :vs:immi^nu^	conj3
 :vs:immi^nu^ perfstem
 :vs:immi^nu_t pp4
+:vs:inmi^nu^	conj3 orth
+:vs:inmi^nu^ perfstem orth
+:vs:inmi^nu_t pp4 orth
 :le:immisceo
 :vs:immisc	conj2
 :vs:immiscu^ perfstem
@@ -7828,6 +7847,10 @@
 :vs:impend	conj3
 :vs:impend perfstem
 :vs:impens pp4
+:vs:inpend	conj3 orth
+:vs:inpend perfstem orth
+:vs:inpens pp4 orth
+
 :le:imperco
 :vs:imperc	conj3
 :vs:inperc	conj3 orth
@@ -7866,6 +7889,10 @@
 :vs:impl	conj2
 :vs:imple_v perfstem
 :vs:imple_t pp4
+:vs:inpl	conj2 orth
+:vs:inple_v perfstem orth
+:vs:inple_t pp4 orth
+
 :le:implicito
 :de:impli^ci^t	are_vb
 :le:imploro

@@ -316,6 +316,7 @@
 
 :le:apud
 :wd:apud	prep
+:wd:aput    prep orth
 
 :le:Arabs
 :no:A_ra^b	s_is masc fem

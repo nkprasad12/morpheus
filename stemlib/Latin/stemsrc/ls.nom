@@ -53280,6 +53280,9 @@ cy^lindra_tus
 
 
 cy^lindrus		<itype>dri</itype>	<gen>m.</gen>
+:le:cylindrus
+:no:cy^lindr us_i masc
+
 Cylla^ro^s		<orth>-us</orth>	
 :le:Cyllaros
 :no:Cylla^r	os_i masc
@@ -53336,6 +53339,7 @@ cy_ma^ti^um		<orth type=alt>cu_m-</orth>	<orth>-on</orth>
 cymba		<orth type=alt>cumba</orth>	
 :le:cymba
 :no:cymb	a_ae fem
+:no:cumb	a_ae fem orth
 
 
 cymba^la_ris		
@@ -181615,6 +181619,9 @@ sardo^ny^cha_tus
 
 sardo^nyx		<itype>y^chis</itype>	<gen>c.</gen>
 sardo^nyx	<itype>Hence</itype>	<pos>adj.</pos>
+:le:sardonyx
+:no:sardo^ny x_chis masc fem
+
 sardo^ni^chus		
 :le:sardonichus
 :aj:sardo^ni^ch	us_a_um
@@ -181731,6 +181738,7 @@ sarra_ci^us
 sarra_cum		<orth type=alt>serra_-</orth>	
 :le:sarracum
 :no:sarra_c	us_i neut
+:no:serra_c	us_i neut orth
 
 
 Sarrastes		
@@ -216694,6 +216702,9 @@ verni_li^tas
 
 vernisera		<itype>mensalia auguria</itype>
 vernu^la		<itype>ae</itype>	<pos>adj.</pos>
+:le:vernula
+:no:vernu^l a_ae
+
 vernus#2		
 :le:vernus#2
 :aj:vern	us_a_um
@@ -217119,6 +217130,11 @@ verve_ci_nus
 
 
 vervex		<orth>berbex</orth>	<orth>verbex</orth>	<itype>e_cis</itype>	<gen>m.</gen>
+:le:vervex
+:no:verv ex_ecis masc
+:no:berb ex_ecis masc orth
+:no:verb ex_ecis masc orth
+
 ve_sa_ni^a		<orth type=alt>vaesa_-</orth>	
 :le:vesania
 :no:ve_sa_ni^	a_ae fem
