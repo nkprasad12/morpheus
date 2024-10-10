@@ -1338,6 +1338,9 @@
 :vs:obst conj1 
 :vs:obste^t perfstem 
 :vs:obsta^t pp4 
+:vs:opst conj1 orth
+:vs:opste^t perfstem orth 
+:vs:opsta^t pp4 orth
 
 #op-fero offe^ro
 #op + fero -> of + fe^ro 

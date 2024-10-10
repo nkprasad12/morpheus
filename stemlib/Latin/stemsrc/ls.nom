@@ -53068,6 +53068,10 @@ cy^baea
 
 
 Cy^be^le_		<orth>Cy^be_be_</orth>	<itype>e_s</itype>
+:le:Cybele
+:no:Cy^be^l	e_es fem
+:no:Cy^be_b	e_es fem
+
 Cy^be^-la^		
 :le:Cybela
 :no:Cy^be^-l	a_ae fem
@@ -142903,6 +142907,9 @@ orty^go^me_tra
 
 ortyx		<itype>y^gis</itype>	<gen>f.</gen>
 o^ryx		<itype>y^gis</itype>	<gen>m.</gen>
+:le:oryx
+:no:o^ry x_gis masc
+
 o^ry_za		<orth type=alt>o^ri_za</orth>	
 :le:oryza
 :no:o^ry_z	a_ae fem

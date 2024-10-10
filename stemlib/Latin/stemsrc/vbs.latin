@@ -7923,6 +7923,10 @@
 :vs:impri^m	conj3
 :vs:impress perfstem
 :vs:impress pp4
+:vs:inpri^m	conj3 orth
+:vs:inpress perfstem orth
+:vs:inpress pp4 orth
+
 :le:improbito
 :de:impro^bi^t	are_vb
 :le:improbo
