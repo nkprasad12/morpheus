@@ -347,8 +347,8 @@
 :vs:ex-tingu	conj3
 :vs:ex-stinx	perfstem
 :vs:ex-tinx	perfstem
-:vs:ex-stinct	perfstem
-:vs:ex-tinct	perfstem
+:vs:ex-stinct	pp4
+:vs:ex-tinct	pp4
 :vb:extinxem	1st sg plup subj act contr
 :vb:exstinxti_	2nd sg perf ind act contr
 

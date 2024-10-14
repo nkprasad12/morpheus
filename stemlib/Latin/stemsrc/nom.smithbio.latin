@@ -13637,12 +13637,14 @@
 #:le:Virgilianus
 #:no:Virgilian us_i masc pers_name
 #
-#:le:Virginia
-#:no:Virgini a_ae fem pers_name
-#
-#:le:Virginius
-#:no:Virgin ius_i masc pers_name
-#
+:le:Virginia
+:no:Virgini a_ae fem pers_name
+:no:Vergini a_ae fem pers_name orth
+
+:le:Virginius
+:no:Virgin ius_i masc pers_name
+:no:Vergin ius_i masc pers_name orth
+
 ##noanalysis:Viridovix
 #
 #:le:Virius

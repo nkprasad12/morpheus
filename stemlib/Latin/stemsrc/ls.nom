@@ -2549,6 +2549,9 @@ a^daera_ti^o
 :no:a^daera_ti^	o_oLnis fem
 
 
+:le:abagio
+:no:aba^gi^	o_oLnis fem
+
 a^da^gi^o		
 :le:adagio
 :no:a^da^gi^	o_oLnis fem
@@ -21391,6 +21394,8 @@ ba_ju^lus
 ba_laena		<orth type=alt>ba_le_na</orth>	
 :le:balaena
 :no:ba_laen	a_ae fem
+:no:ba_le_n	a_ae fem orth
+:no:ba_llaen	a_ae fem orth
 
 
 ba_laena_ci^us		<orth type=alt>ba_le_n-</orth>	
@@ -22360,8 +22365,6 @@ Bastu^li		<orth type=alt>Bascu^-</orth>
 :le:Bastuli
 :no:Bastu^l	us_i masc pl
 :no:Bascu^l	us_i masc pl orth
-
-
 
 Bascu^lus		
 :le:Basculus

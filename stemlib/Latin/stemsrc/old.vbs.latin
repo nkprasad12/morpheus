@@ -190,8 +190,6 @@ a^cu^o		<itype>ui, u_tum, 3</itype>	<pos>v. a.</pos>	<orth>a^cu_tus</orth>	<ityp
 :de:afflict	are_vb
 :le:afflo
 :de:af-fl	are_vb
-:le:affor
-:de:af-f	are_vb dep
 :le:aggero
 :de:agge^r	are_vb
 :le:agglomero
@@ -250,8 +248,6 @@ a^cu^o		<itype>ui, u_tum, 3</itype>	<pos>v. a.</pos>	<orth>a^cu_tus</orth>	<ityp
 :de:a^ni^m	are_vb
 :le:annodo
 :de:an-no_d	are_vb
-:le:annoto
-:de:an-no^t	are_vb
 :le:annullo
 :de:an-null	are_vb
 :le:antestor

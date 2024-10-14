@@ -694,6 +694,8 @@
 :vs:ad-fo^d	conj3_io orth
 :le:affor
 :de:af-f	are_vb dep
+:de:ad-f	are_vb dep orth
+
 :le:afformido
 :de:af-formi_d	are_vb
 :le:affrango
@@ -875,6 +877,11 @@
 
 :le:ambulo
 :de:ambu^l	are_vb
+
+#@gaffiot
+:le:abambulo
+:de:abambu^l	are_vb
+
 :le:amburo
 :vs:amb-u_r	conj3
 :vs:amb-uss perfstem
@@ -980,6 +987,8 @@
 :de:anno_n	are_vb dep
 :le:annoto
 :de:an-no^t	are_vb
+:de:ad-no^t	are_vb orth
+
 :le:annubilo
 :de:an-nu_bi^l	are_vb
 :le:annullo
@@ -1131,6 +1140,10 @@
 :vs:ap-po_n	conj3
 :vs:ap-po^su^ perfstem
 :vs:ap-po^si^t pp4
+:vs:ad-po_n	conj3 orth
+:vs:ad-po^su^ perfstem orth
+:vs:ad-po^si^t pp4 orth
+
 :le:apposco
 :vs:ap-posc	conj3
 :le:appostulo
@@ -1458,6 +1471,10 @@
 :vs:attend	conj3
 :vs:attend perfstem
 :vs:attent pp4
+:vs:adtend	conj3 orth
+:vs:adtend perfstem orth
+:vs:adtent pp4 orth
+
 :le:attento
 :vs:at-tent	conj1
 :vs:ad-tempt	conj1 orth
@@ -1503,6 +1520,8 @@
 :de:at-to^le^r	are_vb
 :le:attollo
 :vs:at-toll	conj3
+:vs:at-tol	conj3 old
+
 :le:attondeo
 :vs:at-tond	conj2
 :vs:at-tond perfstem
@@ -6769,10 +6788,7 @@
 :de:ex-still	are_vb
 :le:exstimulo
 :de:ex-sti^mu^l	are_vb
-:le:exstinguo
-:vs:ex-stingu	conj3
-:vs:ex-stinx perfstem
-:vs:ex-stinct pp4
+
 :le:exstirpo
 :de:ex-stirp	are_vb
 :le:exsto
