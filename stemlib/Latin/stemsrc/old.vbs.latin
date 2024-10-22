@@ -1711,8 +1711,7 @@ di-stringo		<itype>nxi, ctum, 3</itype>	<pos>v. a.</pos>	<pos>P. a.</pos>	<orth>
 :de:fu_r	are_vb dep
 :le:fusco
 :de:fusc	are_vb
-:le:galeo
-:de:ga^le^	are_vb
+
 :le:gargarizo
 :de:garga^ri_z	are_vb
 :le:gelo

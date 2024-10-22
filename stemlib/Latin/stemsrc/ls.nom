@@ -230,6 +230,7 @@ A^be_l		<itype>indecl.</itype>
 A^be_lus		
 :le:Abelus
 :no:A^be_l	us_i masc
+:wd:A^be_l indecl masc
 
 
 A^bella		
@@ -238,6 +239,11 @@ A^bella
 
 
 Abella_na		<itype>nux or Avellana, also Abellina</itype>
+:le:Abella_na
+:no:A^bella_na a_ae fem
+:no:A^vella_na a_ae fem
+:no:A^belli_na a_ae fem
+
 Abellani	
 Abelli_num		
 :le:Abellinum
@@ -25606,6 +25612,7 @@ bracte^a_tus
 bracte^o^la		
 :le:bracteola
 :no:bracte^o^l	a_ae fem
+:no:bratte^o^l	a_ae fem orth
 
 
 Bragae		
@@ -30736,6 +30743,8 @@ ca^pilla_tu_ra
 :le:capillatura
 :no:ca^pilla_tu_r	a_ae fem
 
+:le:capillatus
+:aj:ca^pilla_t	us_a_um
 
 ca^pilla_ti		
 :le:capillati
@@ -32717,11 +32726,12 @@ casti^tu_do
 castor#1		
 :le:castor#1
 :no:cast	or_oris masc
-
+:wd:castora masc acc sg
 
 Castor#2		
 :le:Castor
 :no:Cast	or_oris masc
+:wd:Castora masc acc sg
 
 
 :le:ecastor
@@ -49975,7 +49985,7 @@ cotta^na		<orth>cotona</orth>	<orth type=alt>coctona</orth>	<orth>cocta^na</orth
 :le:cottana
 :no:cotta^n	us_i neut pl
 :no:cocta^n	us_i neut pl orth
-
+:no:cotto^n	us_i neut pl orth
 
 
 cotti_di^a_nus		<orth>co_^ti_d-</orth>	<orth>quo^ti_d-</orth>	
@@ -85104,7 +85114,7 @@ Ha^lys		<itype>yos</itype>	<gen>m.</gen>
 ha^ma		<orth type=alt>ama</orth>	
 :le:hama
 :no:ha^m	a_ae fem
-
+:no:a^m     a_ae fem orth
 
 Ha^ma_dry^as		
 :le:Hamadryas

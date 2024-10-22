@@ -1237,6 +1237,9 @@
 :vs:ar-ri_d	conj2
 :vs:ar-ri_s perfstem
 :vs:ar-ri_s pp4
+:vs:ad-ri_d	conj2 orth
+:vs:ad-ri_s perfstem orth
+:vs:ad-ri_s pp4 orth
 :le:arrigo
 :vs:ar-ri^g	conj3
 :vs:ar-re_x perfstem
@@ -1424,6 +1427,10 @@
 :vs:as-surg	conj3
 :vs:as-surre_x perfstem
 :vs:as-surre_ct pp4
+:vs:ad-surg	conj3 orth
+:vs:ad-surre_x perfstem orth
+:vs:ad-surre_ct pp4 orth
+
 :le:assuspiro
 :de:as-suspi_r	are_vb
 :le:asterno
@@ -2509,8 +2516,8 @@
 :le:collabor
 :vs:col-la_b	conj3 dep
 :vs:con-la_b	conj3 orth dep
-:vs:col-la_p	pp4 dep
-:vs:con-la_p	pp4 orth dep
+:vs:col-la_ps	pp4 dep
+:vs:con-la_ps	pp4 orth dep
 :le:collaboro
 :de:col-la^bo_r	are_vb
 :le:collacrimo
@@ -4686,7 +4693,9 @@
 :vs:de_-pre^hend	conj3
 :vs:de_-pre^hend perfstem
 :vs:de_-pre^hens pp4
-:vs:de_-prens pp4
+:vs:de_-prend	conj3 orth
+:vs:de_-prend perfstem orth
+:vs:de_-prens pp4 orth
 :le:depretio
 :de:de_pre^ti	are_vb
 :le:deprimo
@@ -6812,6 +6821,10 @@
 :vs:ex-su_g	conj3
 :vs:ex-su_x perfstem
 :vs:ex-su_ct pp4
+:vs:ex-u_g	conj3 orth
+:vs:ex-u_x perfstem orth
+:vs:ex-u_ct pp4 orth
+
 :le:exsulo
 :de:exsu^l	are_vb
 :de:exu^l	are_vb orth
@@ -6823,6 +6836,8 @@
 :de:exult	are_vb orth
 :le:exsupero
 :de:ex-su^pe^r	are_vb
+:de:ex-u^pe^r	are_vb orth
+
 :le:exsurdo
 :de:ex-surd	are_vb
 :le:exsurgo
@@ -7381,7 +7396,8 @@
 :le:galaticor
 :de:ga^la^ti^c	are_vb dep
 :le:galeo
-:de:ga^l	are_vb
+:de:ga^le^	are_vb
+
 :le:gallulasco
 :vs:gallu^la_sc	conj3
 :le:gannio
