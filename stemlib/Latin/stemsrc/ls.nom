@@ -2283,6 +2283,9 @@ Acte_#2
 
 
 Acti^a^cus		<itype>a um</itype>	<pos>adj.</pos>
+:le:Actiacus 
+:aj:Acti^a^c	us_a_um
+
 Acti^a^s		
 :le:Actias
 :no:Acti^	as_adis fem
@@ -57657,6 +57660,7 @@ de_-questus
 :aj:de_-quest	us_a_um
 
 
+
 Deraemestae		
 :le:Deraemestae
 :no:Deraemest	a_ae masc pl
@@ -58457,6 +58461,9 @@ Deuca^li^o_ne_us
 
 
 de^-unx		<itype>uncis</itype>	<gen>m.</gen>
+le:deunx
+:no:de^-un	x_cis masc
+
 de^us		
 :le:deus
 :no:de^	us_i masc
@@ -98038,6 +98045,10 @@ indu_mentum
 indu^pe^di^o		<orth>indu^pe^di_tus</orth>	<itype>a</itype>
 indu^pe^rans		<itype>antis</itype>
 indu^pe^ro		<orth type=alt>indu^pe^ra_tor</orth>
+indu^pe^ra_tor
+:le:induperator
+:no:indu^pe^ra_t	or_oLris masc
+
 Indus#1		
 :le:Indus
 :aj:Ind	us_a_um
@@ -108338,6 +108349,9 @@ la^cu_na		<orth>lu^cu_na</orth>	<orth>la^cu_na_-tu_ra</orth>
 
 
 la^cu_nar		<itype>a_ris</itype>
+:le:lacunar
+:no:la^lu_n	ar_aLris neut
+
 lacu_na_ri^um		
 :le:lacunarium
 :no:lacu_na_ri^	us_i neut
@@ -113936,6 +113950,9 @@ li_ni^fi^cus
 
 
 li_ni^ger		<itype>ge^ra, ge^rum</itype>	<pos>adj.</pos>
+:le:liniger
+:aj:li_ni^g	er_era_erum
+
 li^ni_men		
 :le:linimen
 :no:li^ni_	men_minis neut
@@ -128756,6 +128773,7 @@ mufrius
 
 muger		<itype>dici solet a Castrensium hominibus, quasi mucosus, is, qui talis male ludit</itype>
 mu_gil		<orth>mu_gi^lis</orth>	<itype>is</itype>	<gen>m.</gen>
+
 Mugilla_nus		
 :le:Mugillanus
 :no:Mugilla_n	us_i masc
@@ -162602,6 +162620,9 @@ praedi^um
 
 
 prae-di_ve^s		<itype>i^tis</itype>	<pos>adj.</pos>
+:le:praedives
+:aj:prae-di_v	es_itis
+
 praedi_vi_na_ti^o		
 :le:praedivinatio
 :no:praedi_vi_na_ti^	o_oLnis fem
