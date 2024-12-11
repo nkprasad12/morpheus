@@ -124,10 +124,6 @@
 :le:juvenis
 :aj:ju_ni^ or_us_comp
 
-:le:octies
-:wd:octie_s adverb numeral advnum arabic8 
-:wd:octiens adverb numeral advnum arabic8 orth
-
 :le:trepidatio
 :no:tre^pi^da_ti o_oLnis fem
 
@@ -342,9 +338,6 @@
 
 :le:bene
 :wd:bene	adverb
-
-:le:bis
-:wd:bis		adverb numeral advnum arabic2 
 
 :le:bonus
 :aj:bon		us_a_um		no_comp
@@ -926,12 +919,6 @@
 :no:Metell	us_i	masc
 :no:Metell	a_ae	fem
 
-:le:millies
-:wd:mi_llie_s adverb numeral advnum arabic1000
-:wd:mi_lie_s adverb numeral advnum arabic1000
-:wd:mi_lliens adverb numeral advnum arabic1000
-:wd:mi_liens adverb numeral advnum arabic1000
-
 :le:Minturnae
 :no:Minturn	a_ae fem pl
 :no:Menturn	a_ae fem pl
@@ -1216,9 +1203,6 @@
 :wd:quamquam	conj
 :wd:quanquam	conj orth
 
-:le:quater
-:wd:quater	adverb numeral advnum arabic4
-
 
 :le:quia
 :wd:quia	conj
@@ -1279,9 +1263,6 @@
 :le:Salvius
 :no:Salv	ius_i masc
 
-:le:sexagies
-:wd:sexa_gie_s	numeral advnum arabic60
-:wd:sexa_giens	numeral advnum arabic60
 
 :le:secus
 :wd:secus	adverb
@@ -1293,9 +1274,6 @@
 :le:sed
 :wd:sed		conj
 :wd:set		conj
-
-:le:semel
-:wd:semel	adverb numeral advnum arabic1
 
 :le:semianimis
 :aj:se_mi^-a^ni^m	is_e
@@ -1309,13 +1287,6 @@
 :le:senatus
 :no:se^na_t	us_us masc
 :wd:se^na_ti	masc gen sg
-
-:le:septaginti
-:wd:septa_ginti_ numeral
-
-:le:septies
-:wd:septie_s	adverb numeral advnum arabic7 
-:wd:septiens	adverb numeral advnum arabic7 orth 
 
 :le:si
 :wd:si_	conj
@@ -1372,9 +1343,6 @@
 :le:tametsi
 :wd:tametsi_	conj
 
-:le:ter
-:wd:ter		adverb numeral advnum arabic3
-
 :le:Terentina
 :no:Terenti_n	a_ae fem
 
@@ -1422,9 +1390,6 @@
 :aj:transla_ti_ci	us_a_um
 :aj:tra_la_ti_ci	us_a_um
 
-:le:tricies
-:wd:tri_cie_s	adverb numeral advnum arabic30
-:wd:tri_ciens	adverb numeral advnum arabic30 orth
 
 :le:tum
 :wd:tum		adverb
@@ -1479,15 +1444,6 @@
 
 :le:vestis
 :no:vest	is_is fem
-
-:le:vicesimus
-:aj:vi_ce_sim us_a_um
-:aj:vi_censim us_a_um
-:aj:vi_censum us_a_um
-
-:le:viciens
-:wd:vi_ciens	adverb numeral advnum arabic20
-:wd:vi_cie_s	adverb numeral advnum arabic20 orth
 
 :le:vigil
 :aj:vigil	0_adj3

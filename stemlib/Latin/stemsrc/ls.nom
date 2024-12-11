@@ -23818,8 +23818,6 @@ bidu^us
 
 	<pos>adj.</pos>
 bi_du^um		
-:le:biduum
-:no:bi_du^	us_i neut numeral tempnum arabic2
 
 
 bi^enna_lis		
@@ -23828,13 +23826,8 @@ bi^enna_lis
 
 
 bi^ennis		
-:le:biennis
-:aj:bi^enn	is_e numeral tempnum arabic2
-
 
 bi^enni^um		
-:le:biennium
-:no:bi^enn	ius_i neut numeral tempnum arabic2
 
 
 bi^fa_ri^us		
@@ -24088,8 +24081,6 @@ bi^membres
 
 bi^menstruus	
 bi^mestris		
-:le:bimestris
-:aj:bi^mestr	is_e numeral tempnum arabic2
 
 
 bi^me^ter		
@@ -24103,13 +24094,9 @@ bi_mu^lus
 
 
 bi_mus		
-:le:bimus
-:aj:bi_m	us_a_um numeral tempnum arabic2
 
 
 bi_na_ri^us		
-:le:binarius
-:aj:bi_na_r	ius_ia_ium numeral partnum arabic2
 
 
 Bingi^um		
@@ -34781,9 +34768,6 @@ cente_na
 &mdash		<orth>cente_num</orth>	<itype>i</itype>	<gen>n.</gen>
 cente_ni^o_na_lisnummus	
 cente_si^mus		
-:le:centesimus
-:aj:cente_si^m	us_a_um numeral ord arabic100
-:aj:centensi^m	us_a_um numeral ord arabic100 orth 
 
 
 cente_si^ma		
@@ -34798,9 +34782,7 @@ centi^ceps
 
 
 centiens		<orth>centies</orth>	
-:le:centiens
-:wd:centiens	adverb numeral advnum arabic100
-:wd:centie_s	adverb numeral advnum arabic100 orth
+
 
 
 centi^fi^dus		
@@ -34956,8 +34938,6 @@ centuncu^lus
 
 
 centu^plex		<orth>centi^plex</orth>	<itype>pli^cis</itype>	<pos>adj.</pos>
-:le:centuplex
-:aj:centu^pl	ex_icis_adj numeral multipl arabic100
 
 centu^pli_^ca_tus		
 :le:centuplicatus
@@ -34971,8 +34951,6 @@ cen-tu^pli_^ca_ta
 	<pos>adv.</pos>
 centu^pli^ca_to_		<itype>ve_nire</itype>
 centu_^plus		
-:le:centuplus
-:aj:centu_^pl	us_a_um numeral proport arabic100
 
 
 centu_^plum		
@@ -55138,8 +55116,6 @@ de^cempe^da_tor
 
 
 de^cem-plex		
-:le:decemplex
-:aj:de^cem-pl	ex_icis_adj numeral multipl arabic10
 
 
 de^cempli^ca_tus		
@@ -55330,9 +55306,6 @@ de_ci^du^us
 
 
 de^ci^e_s		<orth>de^ci^ens</orth>
-:le:decies
-:wd:de^ci^e_s	adverb numeral advnum arabic10
-:wd:de^ci^e_ns	adverb numeral advnum arabic10 orth
 
 
 de^ci^ma		
@@ -55379,9 +55352,6 @@ de^cu^ma_tus
 
 
 de^ci^mus#1		<orth>de^cu^mus</orth>	
-:le:decimus#1
-:aj:de^ci^m	us_a_um numeral ord arabic10
-:aj:de^cu^m	us_a_um numeral ord arabic10 orth
 
 
 
@@ -55675,8 +55645,7 @@ de^cu_^pla_tus
 
 
 de^cu^plus		
-:le:decuplus
-:aj:de^cu^pl	us_a_um numeral proport arabic10
+
 
 
 de^cu^ri^a		
@@ -63312,9 +63281,6 @@ du^cente_si^ma
 du^centi		<itype>ae, a</itype>
 du^centi^es		<orth>-i^ens</orth>	<pos>adv. num.</pos>
 du^centi^es		<orth>-i^ens</orth>	<pos>adv. num.</pos>
-:le:ducenties
-:wd:du^centi^e_s		adverb numeral advnum arabic200
-:wd:du^centi^ens		adverb numeral advnum arabic200
 
 du^ci^a_nus		
 :le:ducianus
@@ -63596,16 +63562,10 @@ du^o^de^cenni^um
 
 
 du^o^de^ci^es		<pos>adv. num.</pos>
-:le:duodecies
-:wd:du^o^de^ci^es	adverb numeral advnum arabic12
-:wd:du^o^de^ci^ens	adverb numeral advnum arabic12 orth
 
 du^o^de^cim		<orth type=alt>XII.</orth>
 
 du^o^-de^ci^mus		
-:le:duodecimus
-:aj:du^o^-de^ci^m	us_a_um numeral ord arabic12
-:aj:du^o^-de^cu^m	us_a_um numeral ord arabic12 orth 
 
 
 du^o^de^ci^mo	
@@ -63635,8 +63595,6 @@ du^o^-de_-qua_dra_ge_si^mus
 :aj:du^o^-de_-quadra_gensi^m	us_a_um orth
 
 
-:le:duodequadraginta	
-:wd:du^o^-de_-qua_^dra_ginta_	numeral card arabic38
 du^o^-de_-qua_^dra_ginta	
 du^o^-de_-quinqua_ge_ni		<itype>ae, a</itype>
 du^o^-de_-quinqua_ge_si^mus		
@@ -63662,8 +63620,6 @@ du^o^-de_-tri_ci^ens		<pos>adv. num.</pos>
 du^o^-de_-tri_ginta	
 du^o^-de_-vi_ce_ni		<itype>ae, a</itype>
 du^o^-de_-vi_ce_si^mus		
-:le:duodevicesimus
-:aj:du^o^-de_-vi_ce_si^m	us_a_um numeral ord arabic18
 
 
 du^o^-et-vi_ce_si^ma_ni		
@@ -63671,8 +63627,6 @@ du^o^-et-vi_ce_si^ma_ni
 :no:du^o^-et-vi_ce_si^ma_n	us_i masc pl
 
 du^o^-et-vi_ce_si^mus		
-:le:duoetvicesimus
-:aj:du^o^-et-vi_ce_si^m	us_a_um
 
 
 du^o^vir		
@@ -63698,8 +63652,6 @@ du_^pla_ti^o
 
 
 du_^plex		
-:le:duplex
-:aj:du_^pl	ex_icis_adj numeral multipl arabic2
 
 
 du_^-pli^ci^ter	
@@ -63747,8 +63699,6 @@ du_^pli^o
 
 
 du_^plus		
-:le:duplus
-:aj:du_^pl	us_a_um numeral proport arabic2
 
 	<pos>Subst.</pos>
 du_^plum		
@@ -125643,9 +125593,6 @@ mille^pe^da
 
 
 mille_si^mus		<orth type=alt>-lensimus</orth>	
-:le:millesimus
-:aj:mi_lle_si^m	us_a_um numeral ord arabic1000
-:aj:mi_llensi^m	us_a_um numeral ord arabic1000 orth
 
 	<pos>adv.</pos>
 mille_si^mum	
@@ -135318,9 +135265,6 @@ no_na_-ge_na_ri^us
 
 no_na_ge_ni		<itype>ae, a</itype>
 no_na_ge_si^mus		
-:le:nonagesimus
-:aj:no_na_ge_si^m	us_a_um numeral ord arabic90
-:aj:no_na_gensi^m	us_a_um numeral ord arabic90 orth 
 
 
 no_na_gessis		
@@ -135329,9 +135273,6 @@ no_na_gessis
 
 
 no_na_gi^es		<orth>-gi^ens</orth>	
-:le:nonagies
-:wd:no_na_gi^e_s	adverb numeral advnum arabic90
-:wd:no_na_gi^ens	adverb numeral advnum arabic90 orth
 
 
 no_na_ginta_	
@@ -135377,19 +135318,10 @@ no_ni^es
 
 
 no_ni^ge_si^mus		<orth>nonge_si^mus</orth>	
-:le:nonigesimus numeral ord arabic90
-:aj:no_ni^ge_si^m	us_a_um numeral ord arabic90
-:aj:no_ni^gensi^m	us_a_um numeral ord arabic90
-:aj:no_nge_si^m	us_a_um numeral ord arabic90 orth
-:aj:no_ngensi^m	us_a_um numeral ord arabic90 orth
 
 
 
 no_ningente_si^mus		
-:le:noningentesimus
-:aj:no_ningente_si^m	us_a_um numeral ord arabic900
-:aj:no_ningentensi^m	us_a_um numeral ord arabic900
-:aj:nongente_-si^m	us_a_um numeral ord arabic900 orth
 
 
 no_ningenti^es		<orth>-ti^ens</orth>	
@@ -135438,8 +135370,6 @@ nonna
 non-nusquam	
 no_nunci^um		<itype>et sescunciam quod magistri ludi appellant, significat dodrantem et dimidium teruncium, quod singula sescuncia uncia et dimidium sit</itype>
 no_nus		
-:le:nonus
-:aj:no_n	us_a_um numeral ord arabic9
 
 
 no_na		
@@ -135448,9 +135378,7 @@ no_na
 
 	<pos>adv.</pos>
 no_no_	
-no_nus-de^ci^mus		
-:le:nonusdecimus
-:aj:no_nus-de^ci^m	us_a_um numeral ord arabic19
+no_nus-de^ci^mus	
 
 
 no_nussis		
@@ -135900,9 +135828,6 @@ no^-vi_ci^um
 	<pos>adv.</pos>
 no^vi_ci^o_		<orth type=alt>no^vi_t-</orth>
 no^vi^es		<orth type=alt>-i^ens</orth>
-:le:novies
-:wd:no^vi^es	adverb numeral advnum arabic9
-:wd:no^vi^ens	adverb numeral advnum arabic9
 
 no^vi^es-de^ci^es	
 no^vi^lu_ni^um		
@@ -138948,9 +138873,7 @@ Octa_vi^a_nus
 :no:Octa_vi^a_n	us_i masc
 
 
-octa_vus		
-:le:octavus
-:aj:octa_v	us_a_um numeral ord arabic8
+octa_vus
 
 
 octa_va		
@@ -138960,8 +138883,6 @@ octa_va
 
 octa_vum	
 octa_vus-de^ci^mus		
-:le:octavusdecimus
-:aj:octa_vus-de^ci^m	us_a_um numeral ord arabic18
 
 
 octennis		
@@ -138982,9 +138903,6 @@ octinge_na_ri^us
 
 octinge_ni		<orth>octingente_ni</orth>	<itype>ae, a</itype>
 octingente_si^mus	
-:le:octingentesimus	
-:aj:octingente_si^m	us_a_um numeral ord arabic800
-:aj:octingentensi^m	us_a_um numeral ord arabic800
 
 octingenti		<itype>ae, a</itype>
 octingenti^es		<orth>-tiens</orth>	<pos>adv. num.</pos>
@@ -139039,15 +138957,10 @@ Octoge_sa
 
 
 octo_ge_si^mus		
-:le:octogesimus
-:aj:octo_ge_si^m	us_a_um numeral ord arabic80
-:aj:octo_gensi^m	us_a_um numeral ord arabic80 orth 
 
 
 octo_gi^es		<orth>-iens</orth>
-:le:octogies
-:wd:octo_gi^es	adverb numeral advnum arabic80
-:wd:octo_gi^ens	adverb numeral advnum arabic80
+
 octo_ginta	
 octo_go_no^s		<orth type=alt>octa_go_no^s</orth>	<itype>i</itype>	<pos>adj.</pos>
 octo_go_num		
@@ -139117,8 +139030,6 @@ octu^pli^ca_tus		<orth>octi^pli^ca_tus</orth>
 
 
 octu^plus		
-:le:octuplus
-:aj:octu^pl	us_a_um numeral proport arabic8
 
 
 octu^plum		
@@ -171362,11 +171273,6 @@ qua_^dra_ge_na_ri^us
 
 qua_^dra_ge_ni		<itype>ae, a</itype>
 qua_^dra_ge_si^mus		<orth>qua_^-dra_gensu^mus</orth>	
-:le:quadragesimus
-:aj:qua_^dra_ge_si^m	us_a_um numeral ord arabic40
-:aj:qua_^dra_ge_su^m	us_a_um numeral ord arabic40 orth
-:aj:qua_^dra_gensi^m	us_a_um numeral ord arabic40 orth
-:aj:qua_^dra_gensu^m	us_a_um numeral ord arabic40 orth
 
 
 
@@ -171376,13 +171282,8 @@ qua_^-dra_ge_si^ma
 :no:qua_^-dra_gensi^m	a_ae fem
 
 
-:le:quadragies
-:wd:qua_^dra_gi^e_s	numeral advnum arabic40
-:wd:qua_^dra_gi^ens	numeral advnum arabic40
-
 qua_^dra_ginta_		<pos>num. adj.</pos>
-:le:quadraginta
-:aj:qua_^dra_ginta_	indecl numeral card arabic40
+
 qua_^drangu^la_tus		
 :le:quadrangulatus
 :aj:qua_^drangu^la_t	us_a_um
@@ -171680,9 +171581,6 @@ qua_^dringe_na_ri^us
 qua_^dringe_ni		<itype>ae, a</itype>
 qua_^drige_ni	
 qua_^dringente_si^mus		
-:le:quadringentesimus
-:aj:qua_^dringente_si^m	us_a_um numeral ord arabic400
-:aj:qua_^dringentensi^m	us_a_um numeral ord arabic400
 
 
 qua_^dringenti		<itype>ae, a</itype>	<pos>adj.</pos>
@@ -171808,8 +171706,6 @@ qua_^dru_^pla_tor#2		<orth type=alt>qua_^dri_^-</orth>
 
 
 qua_^dru^plex		
-:le:quadruplex
-:aj:qua_^dru^pl	ex_icis_adj numeral multipl arabic4
 
 
 qua_^dru^plex		
@@ -171824,9 +171720,6 @@ qua_^dru^-pli^ca_ti^o
 
 qua^dru^pli^ca_-to_	
 qua_^dru^plus		<orth>qua_^dru^pu^lus</orth>	
-:le:quadruplus
-:aj:qua_^dru^pl	us_a_um numeral proport arabic4
-:aj:qua_^dru^pu^l	us_a_um numeral proport arabic4 orth
 
 
 	<pos>adj.</pos>
@@ -172195,8 +172088,7 @@ quartum
 
 quartum		<orth>quarto_</orth>
 quartus-de^ci^mus		
-:le:quartusdecimus
-:aj:qua_rtus-de^ci^m	us_a_um numeral ord arabic14
+
 
 	<pos>num. adj.</pos>
 qua^si^		
@@ -172288,9 +172180,6 @@ quattu^orde^ci^ens		<orth type=alt>quat-</orth>
 :wd:qua_tuorde^ci^e_ns	adverb orth
 
 quattu^orde^cim		<orth type=alt>quat-</orth>	<pos>num. adj.</pos>
-:le:quattuordecim
-:aj:quattu^orde^cim	indecl numeral card arabic14
-:aj:qua_tu^orde^cim indecl numeral card arabic14 orth
 
 quattu^or-pri_mi		<orth type=alt>quat-</orth>	
 :le:quattuorprimi
@@ -172510,14 +172399,9 @@ quincu_^plex
 
 
 quinde^ci^es		<orth type=alt>-de^ci^ens</orth>	
-:le:quindecies
-:wd:qui_nde^ci^e_s	adverb numeral advnum arabic15
-:wd:qui_nde^ci^e_ns	adverb numeral advnum arabic15 orth
 
 
 quinde^cim		<pos>num. adj.</pos>
-:le:quindecim
-:aj:qui_nde^ci^m	indecl numeral card arabic15
 
 quinde^cim-pri_mi		
 :le:quindecimprimi
@@ -172559,9 +172443,6 @@ quingenta_ri^us
 
 quingente_ni		<itype>ae, a</itype>
 quingente_si^mus		
-:le:quingentesimus
-:aj:qui_ngente_si^m	us_a_um numeral ord arabic500
-:aj:qui_ngente_nsi^m	us_a_um numeral ord arabic500
 
 
 quingenti		<pos>num. adj.</pos>
@@ -172592,9 +172473,7 @@ quinqua_gensi^ens
 
 
 quinqua_ge_si^mus		
-:le:quinquagesimus
-:aj:qui_nqua_ge_si^m	us_a_um numeral ord arabic50
-:aj:qui_nqua_gensi^m	us_a_um numeral ord arabic50
+
 
 	<pos>num. adj.</pos>
 quinqua_ge_si^ma		
@@ -172603,9 +172482,6 @@ quinqua_ge_si^ma
 
 
 quinqua_gi^ens		
-:le:quinquagiens
-:wd:qui_nqua_gi^ens	adverb numeral advnum arabic50
-:wd:qui_nqua_gi^e_s	adverb numeral advnum arabic50 orth
 
 
 quinqua_ginta		<pos>num. adj.</pos>
@@ -172790,9 +172666,6 @@ quinque^vi^ra_tus		<orth>V</orth>
 
 
 quinqui^ens		
-:le:quinquiens
-:wd:qui_nqui^ens	adverb numeral advnum arabic5
-:wd:qui_nqui^e_s	adverb numeral advnum arabic5 orth
 
 
 quinqui^fi^dus		
@@ -172917,8 +172790,7 @@ Quinta
 
 
 quintus-de^ci^mus		
-:le:quintusdecimus
-:aj:qui_ntus-de^ci^m	us_a_um numeral ord arabic15
+
 
 	<pos>num. adj.</pos>
 quippe		
@@ -184931,18 +184803,12 @@ se_da_tor
 
 
 se_de^cennis		
-:le:sedecennis
-:aj:se_de^cenn	is_e
 
 
 se_-de^ci^es
-:le:sedecies
-:wd:se_-de^ci^es	adverb numeral advnum arabic16
+
 	
 se_de^cim		<orth>sexde^cim</orth>	<pos>num. adj.</pos>
-:le:sedecim
-:aj:se_de^cim	indecl numeral card arabic16
-:aj:sexde^cim	indecl numeral card arabic16 orth
 
 se_de_cu^la		
 :le:sedecula
@@ -186871,8 +186737,7 @@ septem-pe^da_lis
 
 
 septem-plex		<itype>pli^cis</itype>	<pos>adj.</pos>
-:le:septemplex
-:aj:septem-pl	ex_icis_adj numeral multipl arabic7
+
 
 septempli^ci^ter		
 :le:septempliciter
@@ -186905,9 +186770,6 @@ septe_na_ri^us
 
 
 septende^cim		<orth>sep-temde^cim</orth>	<pos>num. adj.</pos>
-:le:septendecim
-:aj:septende^cim	indecl numeral card arabic17
-:aj:septemde^cim	indecl numeral card arabic17 orth
 
 septe_ni		<itype>ae, a</itype>
 septentri^o_na_lis		
@@ -187025,12 +186887,7 @@ Septi^mu^le_ius
 
 
 septi^mus		<orth type=alt>septu^mus</orth>	
-:le:septimus
-:aj:septi^m	us_a_um numeral ord arabic7
-:aj:septu^m	us_a_um numeral ord arabic7 orth
 
-:le:septimusdecimus
-:aj:septi^musde^ci^m	us_a_um numeral ord arabic17
 septi^mum		<orth>septi^mo_</orth>
 septinge_na_ri^us		
 :le:septingenarius
@@ -187039,9 +186896,6 @@ septinge_na_ri^us
 
 septinge_ni		<itype>ae, a</itype>
 septingente_si^mus		
-:le:septingentesimus
-:aj:septingente_si^m	us_a_um numeral ord arabic700
-:aj:septingentensi^m	us_a_um numeral ord arabic700
 
 
 septingenti		<itype>ae, a</itype>	<pos>num. adj.</pos>
@@ -187078,14 +186932,9 @@ septu^a_ge_na_ri^us
 
 septu^a_ge_ni		<itype>ae, a</itype>
 septu^a_ge_simus		
-:le:septuagesimus
-:aj:septu^a_ge_sim	us_a_um numeral ord arabic70
-:aj:septu^a_gensim	us_a_um numeral ord arabic70
 
 
 septu^a_gi^es		
-:le:septuagies
-:wd:septu^a_gi^e_s	adverb numeral advnum arabic70
 
 
 septu^a_ge_si^es	
@@ -187901,11 +187750,6 @@ sesce_na_ris
 
 sescente_ni		<orth>sesce_ni</orth>	<orth>sexc-</orth>	<itype>ae, a</itype>
 sescente_si^mus		<orth>sexc-</orth>	
-:le:sescentesimus
-:aj:sescente_si^m	us_a_um numeral ord arabic600
-:aj:sexcente_si^m	us_a_um numeral ord arabic600 orth
-:aj:sescentensi^m	us_a_um numeral ord arabic600 orth
-:aj:sexcentensi^m	us_a_um numeral ord arabic600 orth
 
 
 
@@ -187936,9 +187780,6 @@ sescunci^a_lis
 
 
 sescuplus		<orth>sesquiplus</orth>	
-:le:sescuplus
-:aj:sescupl	us_a_um numeral proport arabic6
-:aj:sesquipl	us_a_um numeral proport arabic6 orth
 
 
 
@@ -188072,8 +187913,7 @@ sesqui^pla_-ri^us
 
 
 sesqui^-plex		<itype>pli^cis</itype>	<pos>adj.</pos>
-:le:sesquiplex
-:aj:sesqui^-pl	ex_icis_adj numeral multipl
+
 
 sescuplex	
 sesqui^-terti^us		
@@ -188286,9 +188126,6 @@ sexa_ge_na_ri^us
 sexa_ge_ni		<itype>ae, a</itype>
 sexa_ge_ni_-qui_ni		<itype>ae, a</itype>
 sexa_ge_si^mus		
-:le:sexagesimus
-:aj:sexa_ge_si^m	us_a_um numeral ord arabic60
-:aj:sexa_gensi^m	us_a_um numeral ord arabic60
 
 
 sexa_ge_si^ma		
@@ -188326,9 +188163,6 @@ sexenni^um
 
 
 sexi^es		<orth>-i^ens</orth>
-:le:sexies
-:wd:sexi^e_s	adverb numeral advnum arabic6
-:wd:sexi^e_ns	adverb numeral advnum arabic6 orth
 
 sexis		<gen>n.</gen>
 sexis	<itype>indecl.</itype>
@@ -188417,8 +188251,6 @@ sextu^la
 
 
 sextus#1		
-:le:sextus#1
-:aj:sext	us_a_um numeral ord arabic6
 
 
 sextum		<orth>sexto_</orth>
@@ -188426,8 +188258,6 @@ Sextus#2		<orth>Sex</orth>
 :le:Sextus
 :no:Sext	us_i masc
 
-:le:sextusdecimus
-:aj:sextusde^ci^m	us_a_um numeral ord arabic16
 
 
 sexua_lis		
@@ -189497,8 +189327,7 @@ simpla_ri^us
 
 
 simplex		
-:le:simplex
-:aj:simpl	ex_icis_adj numeral multipl arabic1
+
 
 	<pos>adv.</pos>
 simpli^ci^ter	
@@ -197127,8 +196956,6 @@ sub-tre^mu^lus
 
 
 sub-triplus		
-:le:subtriplus
-:aj:sub-tripl	us_a_um numeral othernum arabic3
 
 
 sub-tristis		
@@ -203904,9 +203731,6 @@ te^ra^mo_n		<orth type=alt>te^ra^mum</orth>
 
 
 ter-de^ci^es		<orth>-i^ens</orth>	<pos>adv. num.</pos>
-:le:terdecies:
-:wd:ter-de^ci^es adverb numeral advnum arabic13
-:wd:ter-de^ci^ens	adverb numeral advnum arabic13
 
 te^re^binthi^nus		<orth>te^rbenti^nus</orth>	
 :le:terebinthinus
@@ -204168,8 +203992,6 @@ termi^te^us
 
 
 terna_ri^us		
-:le:ternarius
-:aj:terna_r	ius_ia_ium numeral partnum arabic3
 
 
 terna_ri^us		
@@ -204413,8 +204235,6 @@ Terti^a
 
 terti^o_		<orth>terti^um</orth>
 terti^us-de^ci^mus		<orth type=alt>-de^cu^mus</orth>	
-:le:tertiusdecimus
-:aj:terti^us-de^ci^m	us_a_um numeral ord arabic13
 
 
 Tertulli^a_nus		
@@ -209208,24 +209028,17 @@ tre^ce_na_ri^us
 tre^ce_ni		<orth>terce_ni</orth>
 tre^cente_ni		<itype>ae, a</itype>
 tre^cente_si^mus		
-:le:trecentesimus
-:aj:tre^cente_si^m	us_a_um numeral ord arabic300
-:aj:tre^centensi^m	us_a_um numeral ord arabic300
 
 
 tre^centi		<orth>tri^centi</orth>	<pos>num. adj.</pos>
 tre^centi^es		<orth>tri^centi^es</orth>	<pos>adv. num.</pos>
-:le:trecenties
-:wd:tre^centi^es	adverb numeral advnum arabic300
-:wd:tri^centi^es	adverb numeral advnum arabic300 orth
+
 tre^che^di_pnum		
 :le:trechedipnum
 :no:tre^che^di_pn	us_i neut
 
 
 tre^de^cim		<orth>tresd-</orth>	<pos>num. adj.</pos>
-:le:tredecim
-:aj:tre^de^cim	indecl numeral card arabic13
 
 tre^me^bundus		<orth type=alt>tre^mi^b-</orth>	
 :le:tremebundus
@@ -209566,10 +209379,7 @@ tri_ce_si^ma_ni
 
 
 tri_ce_si^mus		<orth>tri_ge_si^mus</orth>	<orth>Tri_ce_si^mae</orth>	<itype>a_rum</itype>	<gen>f.</gen>
-:le:tricesimus
-:aj:tri_ce_si^m	us_a_um numeral ord arabic30 
-:aj:tri_censi^m	us_a_um numeral ord arabic30 orth 
-:aj:tri_ge_si^m	us_a_um numeral ord arabic30 orth 
+
 
 us		<orth>tri_ge_si^mus</orth>	<orth>Tri_ce_si^mae</orth>	<itype>a_rum</itype>	<gen>f.</gen>
 
@@ -209765,8 +209575,6 @@ tri^enni^a
 
 
 tri^ennis		
-:le:triennis
-:aj:tri^enn	is_e numeral tempnum arabic3
 
 
 tri^enni^um		
@@ -210052,8 +209860,6 @@ tri^membris
 
 
 tri^mestris		
-:le:trimestris
-:aj:tri^mestr	is_e numeral tempnum arabic3
 
 
 tri^me-stri^a		
@@ -210097,8 +209903,6 @@ tri_mu^lus
 
 
 tri_mus		
-:le:trimus
-:aj:tri_m	us_a_um numeral tempnum arabic3
 
 
 Tri_na_^cri^a		
@@ -210343,8 +210147,7 @@ tripla^si^us
 
 
 tri_^plex		
-:le:triplex
-:aj:tri_^pl	ex_icis_adj numeral multipl arabic3
+
 
 
 tri_^plex		
@@ -210377,8 +210180,6 @@ tri^plinthi^us
 
 
 tri^plus		
-:le:triplus
-:aj:tri^pl	us_a_um numeral proport arabic3
 
 
 tri^po^da_ti^o		
@@ -213285,16 +213086,12 @@ unde_cente_si^mus
 
 	<pos>num. adj.</pos>
 unde_centum		<pos>num. adj.</pos>
-unde^ci^es	
-:le:undecies
-:wd:u_nde^ci^e_s	adverb numeral advnum arabic11
-:wd:u_nde^ci^e_ns	adverb numeral advnum arabic11 orth
+unde^ci^es
 
 unde^ci^m		<pos>num. adj.</pos>
 
 unde^ci^mus		
-:le:undecimus 
-:aj:u_nde^ci^m	us_a_um numeral ord arabic11
+
 
 	<pos>num. adj.</pos>
 unde^ci^re_mis		
@@ -213367,11 +213164,7 @@ unde_vi_ce_si^ma_ni
 
 
 unde_vi_ce_si^mus		<orth>unde_vi_ge_si^-mus</orth>	
-:le:undevicesimus
-:aj:u_nde_vi_ce_si^m	us_a_um numeral ord arabic19
-:aj:u_nde_vi_ce_nsi^m	us_a_um numeral ord arabic19
-:aj:u_nde_vi_ge_si^-m	us_a_um numeral ord arabic19 orth
-:aj:u_nde_vi_ge_nsi^-m	us_a_um numeral ord arabic19 orth
+
 
 
 
@@ -218267,15 +218060,7 @@ vi_ce_si^ma_ti^o
 
 
 vi_ce_si^mus		<orth>vi_censi^mus</orth>	<orth>vi_ge_si^mus</orth>	<orth>vi_ce_nsi^-ma</orth>	<orth type=alt>-suma</orth>	<itype>ae</itype>	<gen>f.</gen>
-:le:vicesimus
-:aj:vi_ce_si^m	us_a_um numeral ord arabic20
-:aj:vi_ce_nsi^m	us_a_um numeral ord arabic20
-:aj:vi_ge_si^-m	us_a_um numeral ord arabic20 orth
-:aj:vi_ge_nsi^-m	us_a_um numeral ord arabic20 orth
-:aj:vi_ce_su^m	us_a_um numeral ord arabic20 orth
-:aj:vi_ce_nsu^m	us_a_um numeral ord arabic20 orth
-:aj:vi_ge_su^-m	us_a_um numeral ord arabic20 orth
-:aj:vi_ge_nsu^-m	us_a_um numeral ord arabic20 orth
+
 
 Vi_ce_ti^a		<orth type=alt>Vi_centi^a</orth>	
 :le:Vicetia
