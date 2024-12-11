@@ -16,12 +16,6 @@
 :le:linter
 :no:lint	er_ris masc fem
 
-:le:undesexaginta
-:aj:u_nde_sexa_ginta_ indecl numeral card arabic59
-
-:le:undetriginta
-:aj:u_nde_tri_ginta_ indecl numeral card arabic29
-
 :le:ficus
 :no:fi_c	us_i masc
 :no:fi_c	us_us masc
@@ -60,9 +54,6 @@
 :no:mu_ni^c	eps_ipitis masc fem
 :no:mu_ni^c	eps_ipis masc fem
 
-:le:undenonaginta
-:aj:u_nde_no_na_ginta_ indecl numeral card arabic89
-
 
 :le:sarisophorus
 :no:sari_sophor	us_i masc
@@ -79,15 +70,6 @@
 
 :le:temptatio
 :no:tempta_ti	o_oLnis fem
-
-:le:undeoctoginta
-:aj:u_nde_octo_ginta_ indecl numeral card arabic79
-
-:le:undequadraginta
-:aj:u_nde_quadra_ginta_	indecl numeral card arabic39
-
-:le:undequinquaginta
-:aj:u_nde_qui_nqua_ginta_ indecl numeral card arabic49
 
 :le:enimvero
 :wd:enimve_ro_	adverb
@@ -107,9 +89,6 @@
 :le:duumvir
 :no:duumvir	0_i masc
 :no:duumuir	0_i masc
-
-:le:duodetriginta
-:aj:du^o^de_tri_ginta_ indecl numeral card arabic38
 
 :le:colluvio
 :no:collu^vi^	o_oLnis fem
@@ -406,9 +385,6 @@
 :le:celsus
 :aj:cels	us_a_um
 
-:le:centum
-:aj:centum 	indecl numeral card arabic100
-
 :le:ceter
 :aj:ce_ter	us_a_um
 
@@ -508,9 +484,6 @@
 :le:daps
 :no:dap 	is_is fem
 :wd:daps	fem nom sg
-
-:le:decem
-:aj:de^cem	indecl numeral card arabic10
 
 :le:degener
 :aj:de_-gener	0_adj3
@@ -780,9 +753,6 @@
 :le:Hymenaeus
 :no:hymenae	us_i masc
 
-:le:Idus
-:no:I_d		us_us fem pl is_month
-:no:Eid		us_us fem pl is_month
 
 :le:jam
 :wd:jam	adverb
@@ -957,10 +927,10 @@
 :no:Metell	a_ae	fem
 
 :le:millies
-:wd:mi_llie_s adverb
-:wd:mi_lie_s adverb
-:wd:mi_lliens adverb
-:wd:mi_liens adverb
+:wd:mi_llie_s adverb numeral advnum arabic1000
+:wd:mi_lie_s adverb numeral advnum arabic1000
+:wd:mi_lliens adverb numeral advnum arabic1000
+:wd:mi_liens adverb numeral advnum arabic1000
 
 :le:Minturnae
 :no:Minturn	a_ae fem pl
@@ -1036,9 +1006,6 @@
 :aj:nostra_t	is_e
 :wd:nostra_s	irreg_adj3 nom masc fem neut sg
 
-:le:novem
-:aj:novem	indecl numeral card arabic9
-
 :le:November
 :aj:Novemb er_ris_re
 :aj:Novembr is_e
@@ -1069,9 +1036,6 @@
 :le:ocior
 :no:o_c	us_a_um	comp
 :no:o_c	us_a_um	superl
-
-:le:octo
-:aj:octo	indecl numeral card arabic8
 
 :le:Oppianicus
 :no:Oppianic us_i masc
@@ -1266,15 +1230,6 @@
 :le:quin
 :wd:qui_n	conj
 
-:le:quingenti
-:aj:qui_ngent us_a_um  pl numeral card arabic500
-
-:le:quinquaginta
-:aj:qui_nqua_ginta_ indecl numeral card arabic50
-
-:le:quinque
-:aj:qui_nque	indecl numeral card arabic5
-
 #:le:quintus
 #:aj:qui_nt	us_a_um
 #:aj:qui_nct	us_a_um
@@ -1324,9 +1279,6 @@
 :le:Salvius
 :no:Salv	ius_i masc
 
-:le:sex
-:aj:sex	indecl numeral card arabic6
-
 :le:sexagies
 :wd:sexa_gie_s	numeral advnum arabic60
 :wd:sexa_giens	numeral advnum arabic60
@@ -1358,21 +1310,12 @@
 :no:se^na_t	us_us masc
 :wd:se^na_ti	masc gen sg
 
-:le:septem
-:aj:septem	indecl numeral card arabic7
-
 :le:septaginti
 :wd:septa_ginti_ numeral
 
 :le:septies
 :wd:septie_s	adverb numeral advnum arabic7 
 :wd:septiens	adverb numeral advnum arabic7 orth 
-
-:le:septingenti
-:aj:septingent	us_a_um pl numeral card arabic700
-
-:le:sexaginta
-:aj:sexa_ginta_	indecl numeral card arabic60
 
 :le:si
 :wd:si_	conj
@@ -1483,9 +1426,6 @@
 :wd:tri_cie_s	adverb numeral advnum arabic30
 :wd:tri_ciens	adverb numeral advnum arabic30 orth
 
-:le:triginta
-:aj:tri_ginta_	indecl numeral card arabic30
-
 :le:tum
 :wd:tum		adverb
 
@@ -1515,9 +1455,6 @@
 :le:umquam
 :wd:umquam	adverb
 :wd:unquam	adverb orth
-
-:le:undecim
-:aj:u_ndecim	indecl numeral card arabic11
 
 :le:undique
 :wd:undique	adverb
@@ -1554,9 +1491,6 @@
 
 :le:vigil
 :aj:vigil	0_adj3
-
-:le:viginti
-:aj:vi_ginti_	indecl numeral card arabic20
 
 :le:vinculum
 :no:vincul	us_i neut

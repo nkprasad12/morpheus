@@ -4385,7 +4385,11 @@ aene^a_tor
 :no:aene^a_t	or_oLris masc
 
 
-Aene_is		<itype>i^dis or i^dos</itype>	<gen>f.</gen>
+Aene_is
+:le:Aeneis
+:no:Aene_	is_idis fem
+:no:Aene_	is_idos fem variant
+
 Aene_i^us		
 :le:Aeneius
 :aj:Aene_	ius_ia_ium
@@ -4836,6 +4840,8 @@ aera_ri^um
 :le:aerarium
 :no:aera_ri^	us_i neut
 
+:le:aeratus
+:aj:aera_t	us_a_um
 
 aere^us#1		<orth type=alt>trisyl.</orth>	
 :le:aereus#1
@@ -5872,7 +5878,10 @@ A^ge_no^ri^de_s
 :no:A^ge_no^ri^d	es_ae masc
 
 
-a^ger		<itype>gri</itype>	<gen>m.</gen>
+a^ger
+:le:ager
+:no:a^g er_ri masc
+
 a^ge_ra^ton		
 :le:ageraton
 :no:a^ge_ra^t	os_i neut
@@ -9675,6 +9684,9 @@ Amphi_tri_te_
 Amphi_^try^o		<orth type=alt>-u^o</orth>	<orth>o_n</orth>	
 :le:Amphitryo
 :no:Amphi_^try^	o_oLnis masc
+:no:Amphi_^tru^	o_oLnis	masc orth
+:no:Amphi_^try^	oLn_oLnis masc orth
+:no:Amphi_^tru^	oLn_oLnis masc orth
 
 
 Amphi_^try^-o_ni^a^de_s		
@@ -11559,7 +11571,12 @@ ante^-ge^ni^ta_lis
 
 ante^gestus		<itype>a, um, better written separately</itype>
 ante gestus	
-ante^-ha_c		<orth>anti^dha_c</orth>	<itype>like antidea for antea, and antideo for anteeo</itype>
+
+ante^-ha_c		<itype>like antidea for antea, and antideo for anteeo</itype>
+:le:antehac
+:wd:anteha_c	adverb
+:wd:antidha_c	adverb orth
+
 Ante_li^i		<orth type=alt>Anthe_li^i</orth>	
 :le:Antelii
 :no:Ante_li^	us_i masc pl
@@ -19566,9 +19583,9 @@ auda_cu^lus
 audax		
 :le:audax
 :aj:aud	ax_adj
+:wd:auda_ci^ter	adverb
+:wd:auda_cter	adverb orth 
 
-
-auda_ci^ter		<orth>audacter</orth>
 audenti^a		
 :le:audentia
 :no:audenti^	a_ae fem
@@ -24786,6 +24803,7 @@ blennus
 Ble^pha^ro_n		
 :le:Blepharon
 :no:Ble^pha^r	oLn_oLnis masc
+:no:Blephar	o_oLnis masc orth
 
 
 bli^te^us		
@@ -25120,15 +25138,14 @@ bo^num
 :no:bo^n	us_i neut
 
 
-bo^nus		<orth>du^onus</orth>	
+bo^nus		<orth>du^onus</orth>
 :le:bonus
-:aj:bo^n	us_a_um
-:aj:du^on	us_a_um orth
+:aj:bo^n us_a_um no_comp
+:aj:du^on	us_a_um no_comp orth
+:aj:me^l ior_ius_comp 
+:aj:opti^m us_a_um irreg_superl	
+:aj:optu^-m	us_a_um irreg_superl orth
 
-
-
-melior		<itype>us</itype>
-optimus		<orth>optu-mus</orth>	<orth>bo^nus</orth>	<itype>boni</itype>	<gen>m.</gen>
 bo^nae		
 :le:bonae
 :no:bo^n	a_ae fem pl
@@ -31915,7 +31932,11 @@ carni^cu^la
 :no:carni^cu^l	a_ae fem
 
 
-carni^fex		<orth>carnu^fex</orth>	<itype>fi^cis</itype>	<gen>m.</gen>	<pos>adj.</pos>
+carni^fex
+:le:carnifex
+:no:carni^f	ex_icis masc
+:no:carnu^f	ex_icis masc orth
+
 carni^fi^ci_na		<orth type=alt>carnu^f-</orth>	
 :le:carnificina
 :no:carni^fi^ci_n	a_ae fem
@@ -50036,6 +50057,9 @@ co_to_ri^ae
 :le:cotoriae
 :no:co_to_ri^	a_ae fem pl
 
+Cotta
+:le:Cotta
+:no:Cott	a_ae masc
 
 cotta^bus		
 :le:cottabus
@@ -50621,10 +50645,11 @@ cre^a_ta
 :no:cre^a_t	us_i neut pl
 
 
-Cre^o#2		<itype>or</itype>
+Cre^o#2
 Cre^on		
-:le:Creon
-:no:Cre^	on_ontis masc
+:le:Creo#2
+:no:Cre^	o_oLnis masc pers_name
+:no:Cre^	on_ontis masc pers_name orth 
 
 
 crepae	
@@ -57245,7 +57270,11 @@ de_no^ta_tus
 
 
 de_no^ta_tus	
-dens		<itype>dentis</itype>	<gen>m.</gen>
+
+dens
+:le:dens
+:no:den	s_tis masc
+
 densa_bi^lis		
 :le:densabilis
 :aj:densa_bi^l	is_e
@@ -59637,6 +59666,9 @@ di^e_cu^la
 
 
 di^es		<gen>c.</gen>
+:le:dies
+:no:di^ es_eLi masc fem masc
+
 di^e^sis		
 :le:diesis
 :no:di^e^s	is_is fem
@@ -63569,8 +63601,6 @@ du^o^de^ci^es		<pos>adv. num.</pos>
 :wd:du^o^de^ci^ens	adverb numeral advnum arabic12 orth
 
 du^o^de^cim		<orth type=alt>XII.</orth>
-:le:duodecim
-:aj:du^o^de^ci^m	indecl numeral card arabic12
 
 du^o^-de^ci^mus		
 :le:duodecimus
@@ -63590,8 +63620,6 @@ du^o^de_na_ri^us
 
 
 du^o^-de_ni		<itype>ae, a</itype>
-:le:duodeni
-:aj:du^o^-de_n	us_a_um pl numeral distr arabic12
 
 du^o^dennium		
 :le:duodennium
@@ -63638,16 +63666,9 @@ du^o^-de_-vi_ce_si^mus
 :aj:du^o^-de_-vi_ce_si^m	us_a_um numeral ord arabic18
 
 
-du^o^-de_-vi_ginti	
-:le:duodeviginti
-:aj:du^o^de_vi_ginti_	indecl numeral card arabic18
-
 du^o^-et-vi_ce_si^ma_ni		
 :le:duoetvicesimani
 :no:du^o^-et-vi_ce_si^ma_n	us_i masc pl
-
-:le:duodeviceni
-:aj:du^o^de_vi_ce_n	us_a_um pl numeral distr arabic18
 
 du^o^-et-vi_ce_si^mus		
 :le:duoetvicesimus
@@ -91327,8 +91348,10 @@ I^du_maeus
 :aj:I^du_mae	us_a_um
 :aj:I^dy_mae	us_a_um orth
 
+:le:Idus
+:no:I_d		us_us fem pl is_month
+:no:Eid		us_us fem pl is_month
 
-I_dus		<orth>eidus</orth>	<itype>u^um</itype>	<gen>f.</gen>
 I^dyia		<orth type=alt>trisyl.</orth>	
 :le:Idyia
 :no:I^dyi	a_ae fem
@@ -116214,7 +116237,10 @@ lu_men
 :no:lu_	men_minis neut
 
 
-lu_mi^na_re		<itype>a_ris</itype>	<gen>n.</gen>
+lu_mi^na_re
+:le:luminare
+:no:lu_mi^na_r	is_is neut 
+
 lu_mi^na_tor		
 :le:luminator
 :no:lu_mi^na_t	or_oris masc
@@ -118519,7 +118545,9 @@ magno^pe^re_		<orth>magno_ ope^re</orth>
 
 magnus#1		
 :le:magnus#1
-:aj:magn	us_a_um
+:aj:magn us_a_um no_comp
+:aj:ma_j	or_us_comp
+:aj:maxim	us_a_um irreg_superl
 
 
 ma_jor		<orth>maxi^mus</orth>	<orth type=alt>maxu^m-</orth>	<itype>a, um</itype>
@@ -119096,6 +119124,11 @@ ma^-lum
 :le:malum
 :no:ma^-l	us_i neut
 
+:le:malus#1
+:aj:ma^l	us_a_um no_comp
+:aj:pe_j	or_us_comp
+:aj:pessi^m	us_a_um irreg_superl
+:aj:pessu^m	us_a_um irreg_superl orth
 
 ma^le	
 ma_lus#2		
@@ -129491,17 +129524,17 @@ multi^-vo^ranti^a
 
 
 multo^ti^ens		<orth>multo^ti^es</orth>
-multus		<orth>moltus</orth>	
+
+multus	
 :le:multus
-:aj:mult	us_a_um
-:aj:molt	us_a_um orth
-
-
+:aj:mult	us_a_um no_comp
+:aj:molt	us_a_um no_comp orth 
+:aj:plu_ri^m	us_a_um irreg_superl
+:aj:plu_ru^m	us_a_um irreg_superl
 
 multa		
 :le:multa
 :no:mult	us_i neut pl
-
 
 multi		
 :le:multi
@@ -129510,10 +129543,6 @@ multi
 	<orth type=alt>de</orth>	<itype>multis</itype>	<pos>adv.</pos>
 multum		<pos>adj.</pos>
 multo_		<orth>plu_s</orth>	<pos>adj.</pos>
-plu_ri^mus		
-:le:plurimus
-:aj:plu_ri^m	us_a_um
-:aj:plu_ru^m	us_a_um
 
 
 plu_ri^mum	
@@ -136338,7 +136367,7 @@ nulli^fi^ca_ti^o
 
 nullus		
 :le:nullus
-:aj:nu_ll	us_a_um
+:aj:nu_ll	us_ius_adj
 
 
 nullus		<itype>i_^us</itype>	<gen>m.</gen>
@@ -138971,10 +139000,7 @@ Octo_ber
 :le:October
 :no:Octo_b	er_ris masc
 
-
 octo_de^cim	
-:le:octodecim
-:aj:octo_de^cim	indecl numeral card arabic18
 
 Octo_du_rus		
 :le:Octodurus
@@ -147670,13 +147696,9 @@ parvu^lus
 parvu^lum	
 parvus		
 :le:parvus
-:aj:parv	us_a_um
-
-
-mi^nor		<itype>us</itype>
-mi^ni^mus		
-:le:minimus
-:aj:mi^ni^m	us_a_um
+:aj:parv	us_a_um no_comp
+:aj:mi^n	or_us_comp
+:aj:mi^ni^m	us_a_um irreg_superl
 
 	<pos>adv.</pos>
 parve_		<orth>mi^nus</orth>	<orth>par-vissi^me_</orth>	<orth>mi^ni^me_</orth>
@@ -161514,6 +161536,8 @@ possi^bi^li^tas
 
 
 possum		<itype>po^tu^i, posse</itype>
+:le:potens
+:aj:pot ens_adj
 po^tenter	
 :le:potenter
 :wd:po^tenter		adverb
@@ -165258,8 +165282,6 @@ pri_mu^lus
 
 pri_mu^lum	
 pri_mus		
-:le:primus
-:aj:pri_m	us_a_um numeral ord arabic1
 
 	<pos>prep.</pos>
 pri_ma		
@@ -165330,7 +165352,10 @@ pri_nus
 :no:pri_n	us_i fem
 
 
-pri^or		<orth>pri^us</orth>	<pos>prep.</pos>
+pri^or
+:le:prior
+:aj:pr ior_ius_comp
+
 pri^o_res		
 :le:priores
 :no:pri^o_r	0_is masc pl
@@ -169453,6 +169478,10 @@ pu^ellus
 :le:puellus
 :no:pu^ell	us_i masc
 
+pu^er
+:le:puer
+:no:pu^er 0_i masc
+
 pu^e^ra		
 :le:puera
 :no:pu^e^r	a_ae fem
@@ -172152,8 +172181,6 @@ quarto_ce_ri^us
 
 
 quartus		
-:le:quartus
-:aj:qua_rt	us_a_um numeral ord arabic4
 
 	<pos>num. adj.</pos>	<pos>Subst.</pos>
 quarta		
@@ -172251,10 +172278,6 @@ qua_^tri^sexti^um
 
 
 quattu^or		<orth>qua_tu^or</orth>	<orth>quattor</orth>	<pos>num. adj.</pos>
-:le:quattuor
-:aj:quattu^or	indecl numeral card arabic4
-:aj:qua_tu^or	indecl numeral card arabic4 orth
-:aj:quattor	indecl numeral card arabic4 orth
 
 
 quattu^orde^ci^ens		<orth type=alt>quat-</orth>
@@ -172877,9 +172900,6 @@ quintuplex
 
 
 quintus#1		<orth>quinctus</orth>	
-:le:quintus#1
-:aj:qui_nt	us_a_um numeral ord arabic5
-:aj:qui_nct	us_a_um numeral ord arabic5 orth
 
 
 	<pos>num. adj.</pos>
@@ -176987,7 +177007,10 @@ re^vulsi^o		<orth type=alt>re^vols-</orth>
 
 
 
-rex#1		<itype>re_gis</itype>	<gen>m.</gen>	<pos>adj.</pos>
+rex#1
+:le:rex
+:no:re_ x_gis masc
+
 Rex#2		<itype>re_gis</itype>	<gen>m.</gen>
 Rha		<itype>indecl.</itype>
 rhabdo^s		
@@ -184796,8 +184819,6 @@ se^cundum
 
 	<pos>prep.</pos>
 se^cundus#1		
-:le:secundus#1
-:aj:se^cund	us_a_um numeral ord arabic2
 
 
 se^cundae		
@@ -187889,9 +187910,6 @@ sescente_si^mus		<orth>sexc-</orth>
 
 
 ses-centi		<orth>sex-centi</orth>	<orth>sescenta</orth>	
-:le:sescenti
-:aj:ses-cent	us_a_um pl numeral card arabic600
-:aj:sex-cent	us_a_um pl numeral card arabic600 orth
 
 
 sescenti^es		<orth>sexc-</orth>
@@ -191170,7 +191188,7 @@ so_lummo^do		<itype>solus</itype>
 
 so_lus#1		<itype>a, um</itype>	<gen>f.</gen>	
 :le:solus#1
-:aj:so_l	us_a_um
+:aj:so_l	us_ius_adj
 
 	<pos>adv.</pos>
 so_lum		<orth>so_lummo^do</orth>
@@ -199290,7 +199308,10 @@ su^pe^runcti^o
 su^pe^r-urgens		<itype>entis</itype>
 su^pe^rus		
 :le:superus
-:aj:su^pe^r	us_a_um
+:aj:su^pe^r us_a_um no_comp
+:aj:su^pe^r ior_ius_comp
+:aj:summ us_a_um irreg_superl
+:aj:su_^pre_m us_a_um irreg_superl
 
 
 su^pe^r		<pos>adj.</pos>	<pos>Adj.</pos>
@@ -204373,8 +204394,6 @@ terti^o_ce_ri^us
 
 
 terti^us		
-:le:tertius
-:aj:tert	ius_ia_ium numeral ord arabic3
 
 
 terti^ae		
@@ -208104,7 +208123,7 @@ tot-ju^gus
 totju^gis	
 to_tus#1		
 :le:totus#1
-:aj:to_t	us_a_um
+:aj:to_t	us_ius_adj
 
 	<pos>adv.</pos>	<pos>Subst.</pos>	<pos>prep.</pos>
 to^tus#2		
@@ -212703,7 +212722,7 @@ ulla_te^nus
 
 ullus		
 :le:ullus
-:aj:u_ll	us_a_um
+:aj:u_ll	us_ius_adj
 
 	<pos>Subst.</pos>
 ulma_ri^um		
@@ -213305,8 +213324,6 @@ unde_na_ri^us
 
 
 un-de_ni		<itype>ae, a</itype>
-:le:undeni
-:aj:u_nde_n	us_a_um pl numeral distr arabic11
 
 unde_no_na_ginta		<pos>num. adj.</pos>
 unde^octo_ginta		<pos>num. adj.</pos>
@@ -213342,8 +213359,6 @@ unde_tri_ce_si^mus		<orth>unde_tri_ge_-si^mus</orth>
 	<pos>num. adj.</pos>
 unde_tri_ginta		<pos>num. adj.</pos>
 unde_vi_ce_ni		<itype>ae, a</itype>
-:le:undeviceni
-:aj:unde_vi_ce_n	us_a_um pl numeral distr arabic19
 
 unde_vi_ce_si^ma_ni		
 :le:undevicesimani
@@ -213361,8 +213376,6 @@ unde_vi_ce_si^mus		<orth>unde_vi_ge_si^-mus</orth>
 
 
 unde_vi_ginti		<pos>num. adj.</pos>
-:le:undeviginti
-:aj:u_nde_vi_ginti_	indecl numeral card arabic19
 
 undi^co^la		
 :le:undicola
@@ -213744,8 +213757,6 @@ u_no_se_
 
 
 u_nus		<pos>num. adj.</pos>
-:le:unus
-:aj:u_n us_ius_adj numeral card arabic1
 
 u_na_	
 Unxia		
@@ -213850,7 +213861,10 @@ Urbi_-na_tes
 
 
 Urbi^us		<orth>Orbi^us</orth>
-urbs		<itype>urbis</itype>	<gen>f.</gen>
+urbs
+:le:urbs
+:no:urb s_is fem
+
 urce^a_tim		
 :le:urceatim
 :wd:urce^a_tim	adverb
