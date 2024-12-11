@@ -401,15 +401,15 @@
 :aj:septinge_n	us_a_um_distr pl numeral distr arabic700
 
 :le:octingeni
-:aj:octinge_n	us_a_um pl_distr numeral distr arabic800
-:aj:octingente_n    us_a_um pl_distr numeral distr arabic800 orth
+:aj:octinge_n	us_a_um_distr pl numeral distr arabic800
+:aj:octingente_n    us_a_um_distr pl numeral distr arabic800 orth
 
 :le:nongeni
 :aj:no_nge_n	us_a_um_distr pl numeral distr arabic900
 :aj:nongente_n  us_a_um_distr pl numeral distr arabic900 orth 
 
 :le:milleni
-:aj:melle_n us_a_um pl numeral_distr distr arabic1000
+:aj:melle_n us_a_um_distr pl numeral distr arabic1000
 
 #ADVERBIALS
 
